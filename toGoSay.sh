@@ -37,24 +37,26 @@ tmp_dir() {
     echo "$_tmp"
 }
 
-build_cowsay() {
-    log 0 "Convert cowsay template to gosay template"
+builder() {
+    log 0 "Convert a template to gosay template"
+    local _builder="${1}"
 
     # Define
     log 0 "Define local var for parsing"
     local _tmp
     _tmp="$(tmp_dir)"
 
-    local -a _tmpIO
+    local -a _tmpIO _fout
     _tmpIO[0]="/in"
     _tmpIO[1]="/out"
+    _fout="${2}"
 
     local _git
-    _git="https://github.com/schacon/cowsay"
+    _git="${3}"
 
     local _template _templateExt
-    _template="${_tmp}${_tmpIO[0]}/cows"
-    _templateExt=".cow"
+    _template="${_tmp}${_tmpIO[0]}/${4}"
+    _templateExt=".${5}"
 
     # Func
     log 0 "Move to tmp folder"
@@ -71,63 +73,64 @@ build_cowsay() {
     IFS=''
     log 0 "Parsse and convert ${_templateExt} file"
     for file in "${_template}/"*"${_templateExt}"; do
-        local _fName _buff _comm
+        local _fName
 
         _fName="$(basename "$file")"
         _fName="${_fName%.*}.gosay"
 
-        _comm=""
-        _buff=" {{.Said}}"
-
-        while read -r line; do
-            if [[ $line == "EOC"* ]] || [[ $line == "\$"*"= "* ]]; then
-                continue
-            fi
-
-            if [[ $line == \#* ]]; then
-                if [[ ${#line} -lt 5 ]]; then
-                    continue
-                fi
-
-                # Licence / Artiste
-                if [[ $_comm == "" ]]; then
-                    _comm="{{/* ${line#### } */}}"
-                else
-                    _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
-                fi
-
-                continue
-            fi
-
-            # Replace
-            line="${line/\$eyes/\{\{.EyeL\}\}\{\{.EyeR\}\}}"
-            line="${line/\$tongue/\{\{.Tongue\}\}}"
-            line="${line/\$thoughts/\{\{.Tail\}\}}"
-
-            # Add to buff
-            _buff="${_buff}"$'\n'"${line}"
-        done < "$file"
-
         # Save to out
         log 0 "Save result to ${_fName}"
-        _buff="${_comm}"$'\n'"${_buff}"
-        echo "$_buff" > "${_tmp}${_tmpIO[1]}/${_fName}"
+        ${_builder} "$file" > "${_tmp}${_tmpIO[1]}/${_fName}"
     done
     IFS="$_b"
 
-    #aller en fichier tmp 
-    #creer fichier in 
-    #    clone git
-    #    define in cow
-    #creer fichier out
-    #parser fichier in 
-    #    transformer en out 
-    ##    enregistrer en out
-    ##mv vers final folder
-
-    log 0 "Move result from \`${_tmp}${_tmpIO[1]}/\` to \`${pwd}/cowsay/\`"
-    mv "${_tmp}${_tmpIO[1]}/"* "${pwd}/cowsay/"
+    log 0 "Move result from \`${_tmp}${_tmpIO[1]}/\` to \`${pwd}/${_fout}/\`"
+    mkdir -p "${pwd}/${_fout}/"
+    mv "${_tmp}${_tmpIO[1]}/"* "${pwd}/${_fout}/"
     clear "${_tmp}"
+}
+
+from_cowsay() {
+    local _fName _buff _comm
+
+    _comm=""
+    _buff=" {{.Said}}"
+
+    while read -r line; do
+        if [[ $line == "EOC"* ]] || [[ $line == "\$"*"= "* ]]; then
+            continue
+        fi
+
+        if [[ $line == \#* ]]; then
+            if [[ ${#line} -lt 5 ]]; then
+                continue
+            fi
+
+            # Licence / Artiste
+            if [[ $_comm == "" ]]; then
+                _comm="{{/* ${line#### } */}}"
+            else
+                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+            fi
+
+            continue
+        fi
+
+        # Replace
+        line="${line/\$eyes/\{\{.EyeL\}\}\{\{.EyeR\}\}}"
+        line="${line/\$tongue/\{\{.Tongue\}\}}"
+        line="${line/\$thoughts/\{\{.Tail\}\}}"
+
+        # Add to buff
+        _buff="${_buff}"$'\n'"${line}"
+    done < "${1}"
+
+    _buff="${_comm}"$'\n'"${_buff}"
+    echo "$_buff"
+}
+
+build_cowsay() {
+    builder "from_cowsay" "cowsay" "https://github.com/schacon/cowsay" "cows" "cow"
 }
 
 pwd="$(pwd)"
