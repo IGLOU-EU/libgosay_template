@@ -80,7 +80,8 @@ builder() {
 
         # Save to out
         log 0 "Save result to ${_fName}"
-        ${_builder} "$file" > "${_tmp}${_tmpIO[1]}/${_fName}"
+        echo "{{/* From ${_git} */}}" > "${_tmp}${_tmpIO[1]}/${_fName}"
+        ${_builder} "$file" >> "${_tmp}${_tmpIO[1]}/${_fName}"
     done
     IFS="$_b"
 
@@ -90,8 +91,63 @@ builder() {
     clear "${_tmp}"
 }
 
+from_cowmore() {
+    local -A _var
+    local _buff _comm _page
+
+    _comm=""
+    _page="${1}"
+    _buff=" {{.Said}}"
+
+    while read -r line; do
+        if [[ $line == "EOC"* ]] || [[ $line == "\$the_cow"* ]] || [[ $line == "" ]]; then
+            continue
+        fi
+
+        # Create color library var
+        if [[ $line == "\$"*"= "* ]]; then
+            local _i _v
+            _i="${line%% *}"
+            _v="$(echo "${line}" | sed -r -E 's/[^=]* = "([^"]+)".*/\1/g')"
+
+            _var[${_i/\$/}]="${_v}"
+            continue
+        fi
+
+        # Licence / Artiste
+        if [[ $line == \#* ]]; then
+            if [[ ${#line} -lt 3 ]]; then
+                continue
+            fi
+
+            if [[ $_comm == "" ]]; then
+                _comm="{{/* ${line#### } */}}"
+            else
+                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+            fi
+
+            continue
+        fi
+
+        #extract body
+        _buff="${_buff}"$'\n'"${line}"
+    done < "${_page}"
+
+    # Replace
+    for i in "${!_var[@]}"; do
+        _buff="${_buff//\$$i/${_var[$i]}}"
+    done
+
+    _buff="${_buff//\$eyes/\{\{.EyeL\}\}\{\{.EyeR\}\}}"
+    _buff="${_buff//\$tongue/\{\{.Tongue\}\}}"
+    _buff="${_buff//\$thoughts/\{\{.Tail\}\}}"
+
+    _buff="${_comm}"$'\n'"${_buff}"
+    echo "$_buff"
+}
+
 from_cowsay() {
-    local _fName _buff _comm
+    local _buff _comm
 
     _comm=""
     _buff=" {{.Said}}"
@@ -133,17 +189,26 @@ build_cowsay() {
     builder "from_cowsay" "cowsay" "https://github.com/schacon/cowsay" "cows" "cow"
 }
 
+build_cowmore() {
+    builder "from_cowmore" "cowmore" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+}
+
 pwd="$(pwd)"
 log 0 "Programme is runing at \`${pwd}\`"
 
-case "$1" in
-  "cowsay")
-    build_cowsay
-    ;;
+    case "$1" in
+        "cowsay")
+            build_cowsay
+            ;;
 
-  *)
-    build_cowsay
-    ;;
-esac
+        "cowmore")
+            build_cowmore
+            ;;
+
+        *)
+            build_cowsay
+            build_cowmore
+            ;;
+    esac
 
 quit
