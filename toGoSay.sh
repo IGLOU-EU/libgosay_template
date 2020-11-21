@@ -80,7 +80,7 @@ builder() {
 
         # Save to out
         log 0 "Save result to ${_fName}"
-        echo "{{/* From ${_git} */}}" > "${_tmp}${_tmpIO[1]}/${_fName}"
+        echo "{{- /* From ${_git} */ -}}" > "${_tmp}${_tmpIO[1]}/${_fName}"
         ${_builder} "$file" >> "${_tmp}${_tmpIO[1]}/${_fName}"
 
         if [[ $(wc -l < "${_tmp}${_tmpIO[1]}/${_fName}") -lt 3 ]]; then
@@ -130,9 +130,9 @@ from_cowmore_color() {
             fi
 
             if [[ $_comm == "" ]]; then
-                _comm="{{/* ${line#### } */}}"
+                _comm="{{- /* ${line#### } */ -}}"
             else
-                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+                _comm="${_comm}"$'\n'"{{- /* ${line#### } */ -}}"
             fi
 
             continue
@@ -180,9 +180,9 @@ from_cowsay() {
 
             # Licence / Artiste
             if [[ $_comm == "" ]]; then
-                _comm="{{/* ${line#### } */}}"
+                _comm="{{- /* ${line#### } */ -}}"
             else
-                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+                _comm="${_comm}"$'\n'"{{- /* ${line#### } */ -}}"
             fi
 
             continue
@@ -222,9 +222,9 @@ from_ponysay() {
             [[ ${line} == "OTHER NAMES:"* ]]
         then
             if [[ $_comm == "" ]]; then
-                _comm="{{/* ${line#### } */}}"
+                _comm="{{- /* ${line#### } */ -}}"
             else
-                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+                _comm="${_comm}"$'\n'"{{- /* ${line#### } */ -}}"
             fi
 
             continue
