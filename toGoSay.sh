@@ -263,24 +263,24 @@ build_ponysay() {
 pwd="$(pwd)"
 log 0 "Programme is runing at \`${pwd}\`"
 
-    case "$1" in
-        "cowsay")
-            build_cowsay
-            ;;
+case "$1" in
+    "cowsay")
+        build_cowsay
+        ;;
 
-        "cowmore")
-            build_cowmore
-            ;;
-        
-        "ponysay")
-            build_ponysay
-            ;;
+    "cowmore")
+        build_cowmore
+        ;;
+    
+    "ponysay")
+        build_ponysay
+        ;;
 
-        *)
-            build_cowsay
-            build_cowmore
-            build_ponysay
-            ;;
-    esac
+    *)
+        build_cowsay
+        build_cowmore
+        build_ponysay
+        ;;
+esac
 
 quit
