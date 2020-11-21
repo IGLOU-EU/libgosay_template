@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Genie (Aladdin) */}}
-{{/* # Unknown - http://pixelartmaker.com/art/fc7d0333c77d21c */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Genie (Aladdin) */ -}}
+{{- /* # Unknown - http://pixelartmaker.com/art/fc7d0333c77d21c */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                       {{.Tail}}                     [48;5;235m      [49m  
                         {{.Tail}}           [48;5;235m  [49m    [48;5;235m          [48;5;221m  [49m  

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Steven Toast (Toast of London) */}}
-{{/* # by Charc0al (original art) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Steven Toast (Toast of London) */ -}}
+{{- /* # by Charc0al (original art) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}}                         [48;5;236m                [49m  

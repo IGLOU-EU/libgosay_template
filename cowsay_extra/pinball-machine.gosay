@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Pinball machine */}}
-{{/* # from http://ascii.co.uk/art/pinball */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Pinball machine */ -}}
+{{- /* # from http://ascii.co.uk/art/pinball */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

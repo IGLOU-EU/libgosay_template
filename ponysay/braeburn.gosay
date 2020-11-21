@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E21 Over a Barrel */}}
-{{/* NAME: Braeburn */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E21 Over a Barrel */ -}}
+{{- /* NAME: Braeburn */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}        [38;5;237m▄[48;5;237;38;5;95m▄▄[49;38;5;237m▄[39m                               [00m

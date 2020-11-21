@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Batman */}}
-{{/* # sprite from Batman (Sega Genesis) - https://www.spriters-resource.com/genesis_32x_scd/batman/sheet/11333/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Batman */ -}}
+{{- /* # sprite from Batman (Sega Genesis) - https://www.spriters-resource.com/genesis_32x_scd/batman/sheet/11333/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}} 
                   {{.Tail}} 

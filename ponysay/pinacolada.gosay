@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Piña Colada (unofficial), Apple Core (unofficial, merged in wikia) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Piña Colada (unofficial), Apple Core (unofficial, merged in wikia) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 $balloon$[00m
     {{.Tail}}                              [00m

@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Nyan Cat */}}
-{{/* # from http://www.reddit.com/r/commandline/comments/2lb5ij/what_is_your_favorite_ascii_art/clt4ybl */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Nyan Cat */ -}}
+{{- /* # from http://www.reddit.com/r/commandline/comments/2lb5ij/what_is_your_favorite_ascii_art/clt4ybl */ -}}
  {{.Said}}
        {{.Tail}}
         {{.Tail}}

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E22 Hurrican Fluttershy */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Bon Voyage (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E22 Hurrican Fluttershy */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Bon Voyage (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                                [00m

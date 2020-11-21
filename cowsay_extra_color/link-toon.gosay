@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Link (Legend of Zelda) */}}
-{{/* # by u/ProminentDetail - https://www.reddit.com/r/PixelArt/comments/8rrw55/oc_zelda_link/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Link (Legend of Zelda) */ -}}
+{{- /* # by u/ProminentDetail - https://www.reddit.com/r/PixelArt/comments/8rrw55/oc_zelda_link/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}} 
                   {{.Tail}}                           [48;5;22m          [49m  

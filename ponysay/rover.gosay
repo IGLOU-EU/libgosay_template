@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E19 A Dog and Pony Show */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Rover (official, in manuscripts) */}}
-{{/* SOURCE: (Pony Noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E19 A Dog and Pony Show */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Rover (official, in manuscripts) */ -}}
+{{- /* SOURCE: (Pony Noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                              [00m

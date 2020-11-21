@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E24 - MMMystery on the Friendship Express */}}
-{{/* NAME: Gustave le Grand */}}
-{{/* OTHER NAMES: Le Grand (official, short) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E24 - MMMystery on the Friendship Express */ -}}
+{{- /* NAME: Gustave le Grand */ -}}
+{{- /* OTHER NAMES: Le Grand (official, short) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                                    {{.Tail}}                         [00m

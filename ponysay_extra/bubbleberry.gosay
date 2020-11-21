@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Bubble Berry (on the first fanart) */}}
-{{/* SOURCE: imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Bubble Berry (on the first fanart) */ -}}
+{{- /* SOURCE: imageboard */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                       [00m

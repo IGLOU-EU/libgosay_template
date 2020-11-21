@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E13 Sonic Rainboom */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Fleetfoot (official, in merchandise), Echo fleetfoots (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E13 Sonic Rainboom */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Fleetfoot (official, in merchandise), Echo fleetfoots (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                              {{.Tail}}                     [00m

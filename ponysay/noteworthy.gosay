@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E11 Winter Wrap Up */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Noteworthy (unofficial, toy line), Blues (unofficial) */}}
-{{/* SOURCE: (Anonycat, StarStep) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E11 Winter Wrap Up */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Noteworthy (unofficial, toy line), Blues (unofficial) */ -}}
+{{- /* SOURCE: (Anonycat, StarStep) Desktop ponies */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                            [00m

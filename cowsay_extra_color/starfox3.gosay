@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Star Fox pointing blaster */}}
-{{/* # by Max2809 - https://www.deviantart.com/max2809/art/Pixel-Fox-378709958 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Star Fox pointing blaster */ -}}
+{{- /* # by Max2809 - https://www.deviantart.com/max2809/art/Pixel-Fox-378709958 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}               [48;5;233m    [49m        [48;5;233m      [49m  
                 {{.Tail}}           [48;5;233m  [48;5;137m  [48;5;233m  [49m        [48;5;233m  [48;5;95m    [48;5;233m  [49m  

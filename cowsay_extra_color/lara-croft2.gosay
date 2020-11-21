@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Lara Croft w/ bow & pick (Tomb Raider) - cropped */}}
-{{/* # by Iceztiq - https://twitter.com/iceztiq/status/610389394185261056 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Lara Croft w/ bow & pick (Tomb Raider) - cropped */ -}}
+{{- /* # by Iceztiq - https://twitter.com/iceztiq/status/610389394185261056 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                           [48;5;238m    [48;5;95m        [49m  
               {{.Tail}}                     [48;5;238m      [48;5;95m          [48;5;238m    [49m  

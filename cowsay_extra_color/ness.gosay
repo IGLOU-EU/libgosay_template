@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ness (Earthbound) */}}
-{{/* # by Naruto[NU] - https://www.spriters-resource.com/custom_edited/earthboundcustoms/sheet/24917/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ness (Earthbound) */ -}}
+{{- /* # by Naruto[NU] - https://www.spriters-resource.com/custom_edited/earthboundcustoms/sheet/24917/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

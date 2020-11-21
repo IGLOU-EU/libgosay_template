@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Nikola Tesla */}}
-{{/* # by Diego Sanches - https://diegosanches.com/science-kombat */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Nikola Tesla */ -}}
+{{- /* # by Diego Sanches - https://diegosanches.com/science-kombat */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                         [48;5;235m            [49m  
             {{.Tail}}                     [48;5;235m        [48;5;8m    [48;5;235m              [49m  

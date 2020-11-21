@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shiva "The Destroyer" */}}
-{{/* # by unknown - https://www.pinterest.com/pin/361836151306516330/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shiva "The Destroyer" */ -}}
+{{- /* # by unknown - https://www.pinterest.com/pin/361836151306516330/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                                                       [48;5;101m  [49m  
               {{.Tail}}               [48;5;195m  [49m                                  [48;5;240m  [48;5;101m  [49m  [48;5;240m  [49m  

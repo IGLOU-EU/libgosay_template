@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Homer Simpson */}}
-{{/* # from http://www.reddit.com/r/textfiles/comments/2s9ybk/random_ascii_art/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Homer Simpson */ -}}
+{{- /* # from http://www.reddit.com/r/textfiles/comments/2s9ybk/random_ascii_art/ */ -}}
  {{.Said}}
             {{.Tail}}
              {{.Tail}}                __ 

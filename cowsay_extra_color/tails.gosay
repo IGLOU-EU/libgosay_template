@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Tails (Sonic & Tails) */}}
-{{/* # by Paint Bucket - https://www.youtube.com/watch?v=yrCjaRF5Ig4 */}}
-{{/* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Tails (Sonic & Tails) */ -}}
+{{- /* # by Paint Bucket - https://www.youtube.com/watch?v=yrCjaRF5Ig4 */ -}}
+{{- /* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}}               [48;5;235m  [48;5;130m    [49m                  [48;5;130m    [48;5;235m  [49m  

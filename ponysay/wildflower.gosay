@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E07 Wonderbolts Academy */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Wild Flower (unofficial) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E07 Wonderbolts Academy */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Wild Flower (unofficial) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
                        {{.Tail}}            [00m

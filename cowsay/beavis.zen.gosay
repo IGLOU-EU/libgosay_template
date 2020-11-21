@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Beavis, with Zen philosophy removed. */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Beavis, with Zen philosophy removed. */ -}}
  {{.Said}}
    {{.Tail}}         __------~~-,
     {{.Tail}}      ,'            ,

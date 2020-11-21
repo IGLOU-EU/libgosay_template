@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Strongbad (Homestar Runner) */}}
-{{/* # by Unknown - https://www.brik.co/blogs/pixel-art/strong-bad */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Strongbad (Homestar Runner) */ -}}
+{{- /* # by Unknown - https://www.brik.co/blogs/pixel-art/strong-bad */ -}}
  {{.Said}}
         {{.Tail}} 
           {{.Tail}} 

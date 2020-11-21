@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Rainbow Dash Present: Capitain Hook The Biker Gorrila (whish is secretely Rainbow Factory - don't tell to Equestria Daily) */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Orion Comet */}}
-{{/* OTHER NAMES: Orion (official, sometimes), OC (official, short) */}}
-{{/* SOURCE: Fan Video */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Rainbow Dash Present: Capitain Hook The Biker Gorrila (whish is secretely Rainbow Factory - don't tell to Equestria Daily) */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Orion Comet */ -}}
+{{- /* OTHER NAMES: Orion (official, sometimes), OC (official, short) */ -}}
+{{- /* SOURCE: Fan Video */ -}}
 
 {{.Said}}[00m
            {{.Tail}}               [00m

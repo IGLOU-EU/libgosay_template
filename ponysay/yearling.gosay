@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E04 Daring Don't */}}
-{{/* NAME: A. K. Yearling */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E04 Daring Don't */ -}}
+{{- /* NAME: A. K. Yearling */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                              {{.Tail}}                  [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E24 Owl's Well That Ends Well */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Owlowiscious */}}
-{{/* SOURCE: imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E24 Owl's Well That Ends Well */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Owlowiscious */ -}}
+{{- /* SOURCE: imageboard */ -}}
 
 The person who associated a work with this deed has dedicated the work to
 the public domain by waiving all of his or her rights to the work worldwide under

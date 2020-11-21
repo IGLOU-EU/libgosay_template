@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E12 Games Ponies Play */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Rainbow Blitz (unofficial), Bifröst (unofficial), Rainbow Strike (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E12 Games Ponies Play */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Rainbow Blitz (unofficial), Bifröst (unofficial), Rainbow Strike (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                        {{.Tail}}                [00m

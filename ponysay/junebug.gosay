@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E10 Secret of My Excess */}}
-{{/* NAME: Junebug */}}
-{{/* SOURCE: desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E10 Secret of My Excess */ -}}
+{{- /* NAME: Junebug */ -}}
+{{- /* SOURCE: desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                     [00m

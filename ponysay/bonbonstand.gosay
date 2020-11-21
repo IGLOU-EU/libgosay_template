@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Bon Bon (Gameloft game) */}}
-{{/* OTHER NAMES: Sweetie Drops (official) */}}
-{{/* SOURCE: (Jay wright, Starly) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Bon Bon (Gameloft game) */ -}}
+{{- /* OTHER NAMES: Sweetie Drops (official) */ -}}
+{{- /* SOURCE: (Jay wright, Starly) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                                [00m

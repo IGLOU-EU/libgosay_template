@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A lovers' empbrace */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A lovers' empbrace */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

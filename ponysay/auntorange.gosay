@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: sS01E23 The Cutie Mark Chronicles */}}
-{{/* NAME: Aunt Orange */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: sS01E23 The Cutie Mark Chronicles */ -}}
+{{- /* NAME: Aunt Orange */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
            {{.Tail}}                              [00m

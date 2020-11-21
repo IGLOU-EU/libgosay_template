@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bruce the shark (Finding Nemo) */}}
-{{/* # by askenvelope1 - https://www.brik.co/blogs/pixel-art/bruce-pixel-art */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bruce the shark (Finding Nemo) */ -}}
+{{- /* # by askenvelope1 - https://www.brik.co/blogs/pixel-art/bruce-pixel-art */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                             {{.Tail}} 
                               {{.Tail}} 

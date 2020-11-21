@@ -1,11 +1,11 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Bon Bon (Gameloft game) */}}
-{{/* NAME: Lyra (Gameloft game) */}}
-{{/* OTHER NAMES: Sweetie Drops (official) */}}
-{{/* OTHER NAMES: Lyra Heartstrings, Harpass (wikia mention as an old name), Heartstrings (old name) */}}
-{{/* SOURCE: imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Bon Bon (Gameloft game) */ -}}
+{{- /* NAME: Lyra (Gameloft game) */ -}}
+{{- /* OTHER NAMES: Sweetie Drops (official) */ -}}
+{{- /* OTHER NAMES: Lyra Heartstrings, Harpass (wikia mention as an old name), Heartstrings (old name) */ -}}
+{{- /* SOURCE: imageboard */ -}}
 
 {{.Said}}[00m
                         {{.Tail}}                                            [00m

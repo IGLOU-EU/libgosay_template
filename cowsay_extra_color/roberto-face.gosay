@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Roberto (Futurama) */}}
-{{/* # by u/JeffreyTheWalrus - https://www.reddit.com/r/futurama/comments/29hvvc/oc_roberto_xpost_from_rpixelart/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Roberto (Futurama) */ -}}
+{{- /* # by u/JeffreyTheWalrus - https://www.reddit.com/r/futurama/comments/29hvvc/oc_roberto_xpost_from_rpixelart/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                           {{.Tail}}                           [48;5;234m                        [49m                      [48;5;234m                          [49m  
                             {{.Tail}}                       [48;5;234m  [48;5;130m                  [48;5;234m  [48;5;88m    [48;5;234m  [49m                  [48;5;234m  [48;5;130m                  [48;5;234m  [48;5;88m      [48;5;234m  [49m  

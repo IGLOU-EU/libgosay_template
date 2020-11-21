@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Rick and Morty */}}
-{{/* # by u/Ramen_enthusiast - https://www.reddit.com/r/rickandmorty/comments/6p39qt/im_pixel_rick/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Rick and Morty */ -}}
+{{- /* # by u/Ramen_enthusiast - https://www.reddit.com/r/rickandmorty/comments/6p39qt/im_pixel_rick/ */ -}}
  {{.Said}}
      {{.Tail}} 
       {{.Tail}}       [48;5;14m  [49m    [48;5;14m  [49m  

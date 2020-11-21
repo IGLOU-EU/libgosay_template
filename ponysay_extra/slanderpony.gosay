@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by */}}
-{{/* NAME: Slander pony (name gived by the author) */}}
-{{/* OTHER NAMES: Slander (short version) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by */ -}}
+{{- /* NAME: Slander pony (name gived by the author) */ -}}
+{{- /* OTHER NAMES: Slander (short version) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                  {{.Tail}}               [00m

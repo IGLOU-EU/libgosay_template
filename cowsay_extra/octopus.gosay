@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # octopus */}}
-{{/* #   http://www.ascii-art.de/ascii/mno/octopus.txt */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # octopus */ -}}
+{{- /* #   http://www.ascii-art.de/ascii/mno/octopus.txt */ -}}
  {{.Said}}
         {{.Tail}}               ___
          {{.Tail}}           .-'   `'.

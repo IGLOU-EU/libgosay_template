@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Skull Kid (Legend of Zelda Majora's Mask) */}}
-{{/* # by xxiseyik30harperxx - https://www.deviantart.com/xxiseyik30harperxx/art/Skull-Kid-pixel-art-688067887 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Skull Kid (Legend of Zelda Majora's Mask) */ -}}
+{{- /* # by xxiseyik30harperxx - https://www.deviantart.com/xxiseyik30harperxx/art/Skull-Kid-pixel-art-688067887 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
     {{.Tail}}             [48;5;234m      [49m  
       {{.Tail}}       [48;5;234m    [48;5;88m    [48;5;234m  [49m    [48;5;234m        [49m  

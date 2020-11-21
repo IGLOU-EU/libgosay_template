@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Little Pip (given by the author) */}}
-{{/* SOURCE: (Fallingcomments), based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Little Pip (given by the author) */ -}}
+{{- /* SOURCE: (Fallingcomments), based on Desktop ponies */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                                  [00m

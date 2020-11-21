@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E22 Hurricane Fluttershy */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Midnight Strike (Stated official by Art director) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E22 Hurricane Fluttershy */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Midnight Strike (Stated official by Art director) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 Ridd Sorensen (Art director) Original Character created on 2011 by one of the sons
 {{.Said}}[00m

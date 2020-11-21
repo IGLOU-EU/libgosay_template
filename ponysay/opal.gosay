@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E14 Suited for Success */}}
-{{/* NAME: Opalescence */}}
-{{/* OTHER NAMES: Opal (offical, short name) */}}
-{{/* SOURCE: (StarStep) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E14 Suited for Success */ -}}
+{{- /* NAME: Opalescence */ -}}
+{{- /* OTHER NAMES: Opal (offical, short name) */ -}}
+{{- /* SOURCE: (StarStep) Desktop ponies */ -}}
 
 {{.Said}}[00m
             {{.Tail}}                [00m

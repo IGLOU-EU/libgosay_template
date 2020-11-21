@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Scruffy (Futurama) */}}
-{{/* # by /u/Onceyougowalrus - https://www.reddit.com/r/futurama/comments/4mrql2/futurama_pixel_art_edition/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Scruffy (Futurama) */ -}}
+{{- /* # by /u/Onceyougowalrus - https://www.reddit.com/r/futurama/comments/4mrql2/futurama_pixel_art_edition/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

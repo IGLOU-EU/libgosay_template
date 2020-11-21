@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E12 Maud Pie */}}
-{{/* NAME: Maud Pie */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E12 Maud Pie */ -}}
+{{- /* NAME: Maud Pie */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
                    {{.Tail}}                             [00m

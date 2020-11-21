@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E07 May the Best Pet Win! */}}
-{{/* NAME: Tank */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E07 May the Best Pet Win! */ -}}
+{{- /* NAME: Tank */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                           [38;5;109m▄▄▄▄▄▄▄[48;5;109;38;5;195m▄▄[38;5;231m▄▄▄▄▄[49;38;5;109m▄▄[39m  [00m

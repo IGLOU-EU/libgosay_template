@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E01 The Return of Harmony [Part 1] */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Tom */}}
-{{/* OTHER NAMES: Tom the Rock */}}
-{{/* SOURCE: imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E01 The Return of Harmony [Part 1] */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Tom */ -}}
+{{- /* OTHER NAMES: Tom the Rock */ -}}
+{{- /* SOURCE: imageboard */ -}}
 
 The person who associated a work with this deed has dedicated the work to
 the public domain by waiving all of his or her rights to the work worldwide under

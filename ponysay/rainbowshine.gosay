@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Rainbowshine (official, toy line), Rainbow Day (unofficial) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Rainbowshine (official, toy line), Rainbow Day (unofficial) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                      {{.Tail}}                   [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E25 A Canterlot Wedding [Part 1] */}}
-{{/* NAME: Shining Armor */}}
-{{/* OTHER NAMES: Caballero (official, spanish) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E25 A Canterlot Wedding [Part 1] */ -}}
+{{- /* NAME: Shining Armor */ -}}
+{{- /* OTHER NAMES: Caballero (official, spanish) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                           {{.Tail}}                 [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Pizza slice w/ phone (Rick and Morty) */}}
-{{/* # by PixelArtus - https://www.pinterest.com/pin/142004194481405011/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Pizza slice w/ phone (Rick and Morty) */ -}}
+{{- /* # by PixelArtus - https://www.pinterest.com/pin/142004194481405011/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                             [48;5;131m  [48;5;95m    [49m  
                 {{.Tail}}                         [48;5;131m  [48;5;222m    [48;5;173m  [48;5;95m  [48;5;232m  [49m  

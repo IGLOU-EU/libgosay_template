@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bender (Futurama) */}}
-{{/* # by Unknown - http://www.minecraftpixelarttemplates.com/2013/04/bender-futurama.html */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bender (Futurama) */ -}}
+{{- /* # by Unknown - http://www.minecraftpixelarttemplates.com/2013/04/bender-futurama.html */ -}}
  {{.Said}}
                          {{.Tail}}      [48;5;235m    [49m  
                           {{.Tail}}   [48;5;235m  [48;5;145m    [48;5;235m  [49m  

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E26 The Best Night Ever */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Octavia (official, on merchandise), Octavia Melody (official, on merchandise), Tavi (unofficial, short name)s */}}
-{{/* SOURCE: (RJP!) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E26 The Best Night Ever */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Octavia (official, on merchandise), Octavia Melody (official, on merchandise), Tavi (unofficial, short name)s */ -}}
+{{- /* SOURCE: (RJP!) Desktop ponies */ -}}
 
 {{.Said}}[00m
              {{.Tail}}                [38;5;131m▄[48;5;131m█[48;5;215m▄[38;5;215m█[49;39m           [00m

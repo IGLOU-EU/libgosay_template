@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E08 Apple Family Reunion */}}
-{{/* NAME: Half Baked Apple */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E08 Apple Family Reunion */ -}}
+{{- /* NAME: Half Baked Apple */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                  {{.Tail}}                  [00m

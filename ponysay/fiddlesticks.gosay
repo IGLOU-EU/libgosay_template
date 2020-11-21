@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E04 Luna Eclipsed */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Fiddlesticks (unofficial), Fiddly Faddle (official, on Trading card game) */}}
-{{/* SOURCE: (vulcan539/james539) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E04 Luna Eclipsed */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Fiddlesticks (unofficial), Fiddly Faddle (official, on Trading card game) */ -}}
+{{- /* SOURCE: (vulcan539/james539) Desktop ponies */ -}}
 
 {{.Said}}[00m
        {{.Tail}}                                  [00m

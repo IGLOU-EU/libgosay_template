@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E16 Sonic Rainboom */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Fire Streak (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E16 Sonic Rainboom */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Fire Streak (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                    [00m

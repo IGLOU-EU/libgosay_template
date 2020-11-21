@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Minion (Despicable Me) */}}
-{{/* # by VicblahDesigns - https://www.deviantart.com/vicblahdesigns/art/Minion-Pixel-Art-541008062 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Minion (Despicable Me) */ -}}
+{{- /* # by VicblahDesigns - https://www.deviantart.com/vicblahdesigns/art/Minion-Pixel-Art-541008062 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}} 
               {{.Tail}} 

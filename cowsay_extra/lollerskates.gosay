@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # LOLLERSKATES */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # LOLLERSKATES */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

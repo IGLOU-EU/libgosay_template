@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Lil' Miss Rarity */}}
-{{/* OTHER NAMES: Rarity, Mommy */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Lil' Miss Rarity */ -}}
+{{- /* OTHER NAMES: Rarity, Mommy */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                                [00m

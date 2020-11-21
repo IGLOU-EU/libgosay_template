@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E05 Sisterhooves Social */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Magnum (official, in Gameloft game), Hondo Flanks (official. on Trading Card Game}, Carlton (unofficial) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E05 Sisterhooves Social */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Magnum (official, in Gameloft game), Hondo Flanks (official. on Trading Card Game}, Carlton (unofficial) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                    [00m

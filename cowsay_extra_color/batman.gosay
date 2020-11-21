@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Batman (Batman: The Animated Series) */}}
-{{/* # by RGZNSK - https://www.behance.net/gallery/45634123/Batman-The-Animated-Series */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Batman (Batman: The Animated Series) */ -}}
+{{- /* # by RGZNSK - https://www.behance.net/gallery/45634123/Batman-The-Animated-Series */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
         {{.Tail}} 
           {{.Tail}}           [48;5;233m  [49m        [48;5;233m  [49m  

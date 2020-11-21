@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Fox McCloud (Star Fox, Super Smash Bros) */}}
-{{/* # by BerserkerOx - https://www.deviantart.com/berserkerox/art/Super-Smash-Bros-Ultimate-Sprite-760019333 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Fox McCloud (Star Fox, Super Smash Bros) */ -}}
+{{- /* # by BerserkerOx - https://www.deviantart.com/berserkerox/art/Super-Smash-Bros-Ultimate-Sprite-760019333 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}} 
               {{.Tail}}                               [48;5;95m  [48;5;173m  [48;5;222m  [48;5;173m  [49m  

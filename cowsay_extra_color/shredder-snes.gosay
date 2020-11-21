@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shredder (Teenage Mutant Ninja Turtles) */}}
-{{/* # by Konami, original art from TMNT Tournament Fighters (SNES) - https://www.spriters-resource.com/snes/tmnttourney/sheet/37332/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shredder (Teenage Mutant Ninja Turtles) */ -}}
+{{- /* # by Konami, original art from TMNT Tournament Fighters (SNES) - https://www.spriters-resource.com/snes/tmnttourney/sheet/37332/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                   {{.Tail}} 
                                     {{.Tail}}                 [48;5;237m  [48;5;146m    [48;5;237m  [48;5;235m  [49m  

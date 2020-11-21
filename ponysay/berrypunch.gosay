@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Berry Punch (official, in merchandice), Berryshine (official, in merchandice), Pinot Noir (unofficial, given by Lauren Faust) */}}
-{{/* SOURCE: (CANDYBAG, vulcan569/james569, Azure Fang) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Berry Punch (official, in merchandice), Berryshine (official, in merchandice), Pinot Noir (unofficial, given by Lauren Faust) */ -}}
+{{- /* SOURCE: (CANDYBAG, vulcan569/james569, Azure Fang) Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                          [00m

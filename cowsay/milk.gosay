@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Milk from Milk and Cheese */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Milk from Milk and Cheese */ -}}
  {{.Said}}
  {{.Tail}}     ____________ 
   {{.Tail}}    |__________|

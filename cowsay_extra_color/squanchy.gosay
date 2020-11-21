@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Squanchy (Rick & Morty) */}}
-{{/* # by Wase Quazi - https://dribbble.com/shots/2877207-Rick-And-Morty-Pixels */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Squanchy (Rick & Morty) */ -}}
+{{- /* # by Wase Quazi - https://dribbble.com/shots/2877207-Rick-And-Morty-Pixels */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Mr.X / Tyrant (Resident Evil 2) */}}
-{{/* # by Paul Conway - http://www.twipu.com/DoomCube/tweet/1100433479450484740 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Mr.X / Tyrant (Resident Evil 2) */ -}}
+{{- /* # by Paul Conway - http://www.twipu.com/DoomCube/tweet/1100433479450484740 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                       {{.Tail}}                     [48;5;248m            [49m  
                         {{.Tail}}                 [48;5;248m  [48;5;238m    [48;5;248m  [48;5;238m      [48;5;248m  [49m  

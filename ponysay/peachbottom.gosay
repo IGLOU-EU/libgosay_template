@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E12 Games Ponies Play */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Ms Peachbottom (official, by the crew), Chickadee (unofficial), Chickenbottom (unofficial, give by Meghan McCarthy) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E12 Games Ponies Play */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Ms Peachbottom (official, by the crew), Chickadee (unofficial), Chickenbottom (unofficial, give by Meghan McCarthy) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
            {{.Tail}}                                   [00m

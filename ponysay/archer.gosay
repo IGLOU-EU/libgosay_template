@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E12 Call of the Cutie */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Archer (unofficial) */}}
-{{/* SOURCE: (vulcan539/james539) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E12 Call of the Cutie */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Archer (unofficial) */ -}}
+{{- /* SOURCE: (vulcan539/james539) Desktop ponies */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}                       [00m

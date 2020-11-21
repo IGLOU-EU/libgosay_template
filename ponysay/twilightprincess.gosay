@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E13 Magical Mistery Cure */}}
-{{/* NAME: Twilight */}}
-{{/* OTHER NAMES: Twilight Sparkle (official, full name), Princess Twilight Sparkle (Official, with tittle) */}}
-{{/* SOURCE: [jristz], based on (pixelheart) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E13 Magical Mistery Cure */ -}}
+{{- /* NAME: Twilight */ -}}
+{{- /* OTHER NAMES: Twilight Sparkle (official, full name), Princess Twilight Sparkle (Official, with tittle) */ -}}
+{{- /* SOURCE: [jristz], based on (pixelheart) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                   [00m

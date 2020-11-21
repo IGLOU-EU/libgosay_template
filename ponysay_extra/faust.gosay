@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Faust (Most frecuent name) */}}
-{{/* OTHER NAMES: Lauren Faust (owner name), Fausticorn (given in other minor sources) */}}
-{{/* SOURCE: [jristz], based on OC ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Faust (Most frecuent name) */ -}}
+{{- /* OTHER NAMES: Lauren Faust (owner name), Fausticorn (given in other minor sources) */ -}}
+{{- /* SOURCE: [jristz], based on OC ponies */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                                  [00m

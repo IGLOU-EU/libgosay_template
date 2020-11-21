@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E05 Gauntler of Fire */}}
-{{/* NAME: Ember */}}
-{{/* OTHER NAMES: Princess Ember (Full tittle) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E05 Gauntler of Fire */ -}}
+{{- /* NAME: Ember */ -}}
+{{- /* OTHER NAMES: Princess Ember (Full tittle) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}            [00m

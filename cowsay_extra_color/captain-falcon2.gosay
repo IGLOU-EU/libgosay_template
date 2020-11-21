@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Captain Falcon (F-Zero) */}}
-{{/* # by u/andwupp - https://www.reddit.com/r/PixelArt/comments/adbjjg/oc_newbie_captain_falcon/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Captain Falcon (F-Zero) */ -}}
+{{- /* # by u/andwupp - https://www.reddit.com/r/PixelArt/comments/adbjjg/oc_newbie_captain_falcon/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

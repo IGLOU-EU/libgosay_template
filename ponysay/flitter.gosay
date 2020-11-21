@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E22 Hurrican Fluttershy */}}
-{{/* NAME: Flitter */}}
-{{/* SOURCE: (fanofetcetera) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E22 Hurrican Fluttershy */ -}}
+{{- /* NAME: Flitter */ -}}
+{{- /* SOURCE: (fanofetcetera) Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                                 [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Doomguy (DOOM) */}}
-{{/* # by RetroPixelWorld - https://www.teepublic.com/t-shirt/1944232-pixel-praetor */}}
-{{/* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Doomguy (DOOM) */ -}}
+{{- /* # by RetroPixelWorld - https://www.teepublic.com/t-shirt/1944232-pixel-praetor */ -}}
+{{- /* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                     [48;5;234m            [49m  
             {{.Tail}}                 [48;5;234m  [48;5;108m  [48;5;194m  [48;5;108m        [48;5;234m  [49m  

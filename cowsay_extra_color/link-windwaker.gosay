@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Link (Legend of Zelda: Wind Waker) */}}
-{{/* # by Matbox99 - https://www.deviantart.com/matbox99/art/Link-Pixel-Art-Grid-400437920 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Link (Legend of Zelda: Wind Waker) */ -}}
+{{- /* # by Matbox99 - https://www.deviantart.com/matbox99/art/Link-Pixel-Art-Grid-400437920 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

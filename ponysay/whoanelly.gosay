@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E05 Tanks for the Memories */}}
-{{/* NAME: (not mentiones) */}}
-{{/* OTHER NAMES: Whoa Nelly */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E05 Tanks for the Memories */ -}}
+{{- /* NAME: (not mentiones) */ -}}
+{{- /* OTHER NAMES: Whoa Nelly */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                               {{.Tail}}                    [00m

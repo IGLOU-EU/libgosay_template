@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ron Swanson (Parks and Rec) */}}
-{{/* # by @ferotanman - https://twitter.com/ferotanman/status/922638436883943426 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ron Swanson (Parks and Rec) */ -}}
+{{- /* # by @ferotanman - https://twitter.com/ferotanman/status/922638436883943426 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

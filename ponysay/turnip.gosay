@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E25 Party of One */}}
-{{/* LICENSE: cc-by-nc-sa */}}
-{{/* NAME: Turnip */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E25 Party of One */ -}}
+{{- /* LICENSE: cc-by-nc-sa */ -}}
+{{- /* NAME: Turnip */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                    [00m

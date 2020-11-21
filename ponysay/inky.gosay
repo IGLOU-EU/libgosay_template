@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E23 The Cutie Mark Chronicles */}}
-{{/* NAME: Marble Pie */}}
-{{/* OTHER NAMES: Inkie Pie (unofficial), Inky (unofficial) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E23 The Cutie Mark Chronicles */ -}}
+{{- /* NAME: Marble Pie */ -}}
+{{- /* OTHER NAMES: Inkie Pie (unofficial), Inky (unofficial) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                            [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Dr Hooves #11 (mentioned on the fanfic) */}}
-{{/* OTHER NAMES: Dr Hooves (original model), Dr Whooves, Dr Whoof (used on fanfics) */}}
-{{/* SOURCE: fanart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Dr Hooves #11 (mentioned on the fanfic) */ -}}
+{{- /* OTHER NAMES: Dr Hooves (original model), Dr Whooves, Dr Whoof (used on fanfics) */ -}}
+{{- /* SOURCE: fanart */ -}}
 
 {{.Said}}[00m
         {{.Tail}}                                  [00m

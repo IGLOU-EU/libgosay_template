@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E07 Make New Friends but Keep Discord */}}
-{{/* NAME: The Smooze */}}
-{{/* OTHER NAMES: Smooze (short version), Smoozinator (mentioned), Smooze face (mentioned), Smoozie (mentioned), El Smoozerino (mentioned) */}}
-{{/* SOURCE: (Bot Chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E07 Make New Friends but Keep Discord */ -}}
+{{- /* NAME: The Smooze */ -}}
+{{- /* OTHER NAMES: Smooze (short version), Smoozinator (mentioned), Smooze face (mentioned), Smoozie (mentioned), El Smoozerino (mentioned) */ -}}
+{{- /* SOURCE: (Bot Chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                           {{.Tail}}                                             [00m

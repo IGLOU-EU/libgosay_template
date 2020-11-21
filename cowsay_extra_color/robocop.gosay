@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Robocop */}}
-{{/* # sprite from Robocop vs The Terminator (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/robocopvstheterminator/sheet/81098/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Robocop */ -}}
+{{- /* # sprite from Robocop vs The Terminator (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/robocopvstheterminator/sheet/81098/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}           [48;5;17m  [48;5;60m  [48;5;67m    [48;5;110m    [48;5;60m  [48;5;24m  [49m  
                 {{.Tail}}       [48;5;17m    [48;5;24m  [48;5;60m  [48;5;67m  [48;5;153m  [48;5;231m    [48;5;110m  [48;5;60m  [49m  

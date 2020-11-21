@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Rick and Morty */}}
-{{/* # by unknown - https://www.uihere.com/free-cliparts/minecraft-rick-sanchez-morty-smith-pixel-art-pixel-1725916 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Rick and Morty */ -}}
+{{- /* # by unknown - https://www.uihere.com/free-cliparts/minecraft-rick-sanchez-morty-smith-pixel-art-pixel-1725916 */ -}}
  {{.Said}}
            {{.Tail}} 
             {{.Tail}} 

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E16 Read It and Weep */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Nurse coldheart (unofficial), Nurse Snowheart (official on merchandise) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E16 Read It and Weep */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Nurse coldheart (unofficial), Nurse Snowheart (official on merchandise) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                    [00m

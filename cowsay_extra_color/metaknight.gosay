@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Metaknight */}}
-{{/* # sprite from Super Smash Flash 2 - http://ch3ts.blogspot.com/2011/06/characters-in-super-smash-flash-2.html */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Metaknight */ -}}
+{{- /* # sprite from Super Smash Flash 2 - http://ch3ts.blogspot.com/2011/06/characters-in-super-smash-flash-2.html */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                               {{.Tail}}                                                                                     [48;5;233m  [48;5;234m  [49m  
 [48;5;233m      [49m                          {{.Tail}}                                                                                 [48;5;233m  [48;5;95m  [48;5;234m  [49m  

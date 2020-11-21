@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Fred Flintstone */}}
-{{/* # by DaltonKeslar1206 - https://www.deviantart.com/daltonkeslar1206/art/Fred-Flintstone-Pixel-ier-Edition-588160800 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Fred Flintstone */ -}}
+{{- /* # by DaltonKeslar1206 - https://www.deviantart.com/daltonkeslar1206/art/Fred-Flintstone-Pixel-ier-Edition-588160800 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                                         [48;5;235m                      [49m  
                 {{.Tail}}                       [48;5;235m  [49m      [48;5;235m                                [49m  

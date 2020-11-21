@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Marth (Fire Emblem, Super Smash Bros) */}}
-{{/* # by thekrillmaster - https://www.deviantart.com/thekrillmaster/art/Marth-palette-swaps-577386081 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Marth (Fire Emblem, Super Smash Bros) */ -}}
+{{- /* # by thekrillmaster - https://www.deviantart.com/thekrillmaster/art/Marth-palette-swaps-577386081 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                     {{.Tail}}                         [48;5;233m            [49m  
                       {{.Tail}}                     [48;5;17m  [48;5;94m  [48;5;24m    [48;5;178m  [48;5;94m  [48;5;58m  [48;5;17m    [49m  

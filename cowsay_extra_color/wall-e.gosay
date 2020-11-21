@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Wall-E */}}
-{{/* # by u/willbo360 - https://www.reddit.com/r/PixelArt/comments/7offwm/oc_walle_for_todays_pixel_dailies_lonely/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Wall-E */ -}}
+{{- /* # by u/willbo360 - https://www.reddit.com/r/PixelArt/comments/7offwm/oc_walle_for_todays_pixel_dailies_lonely/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                                                                             [48;5;244m  [48;5;247m    [49m  
               {{.Tail}}                                                                         [48;5;244m  [48;5;247m    [48;5;244m  [49m  

@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Yoda */}}
-{{/* # by Lalika - https://www.kisspng.com/png-yoda-portable-network-graphics-image-pixel-art-ana-6953322/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Yoda */ -}}
+{{- /* # by Lalika - https://www.kisspng.com/png-yoda-portable-network-graphics-image-pixel-art-ana-6953322/ */ -}}
  {{.Said}}
           {{.Tail}} 
            {{.Tail}} 

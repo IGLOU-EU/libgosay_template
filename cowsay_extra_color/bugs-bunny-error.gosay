@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bugs Bunny (Looney Tunes) */}}
-{{/* # sprite from Bugs Bunny Rabbit Rampage (SNES) - https://www.spriters-resource.com/snes/bugsbunnyrabbitrampage/sheet/44964/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bugs Bunny (Looney Tunes) */ -}}
+{{- /* # sprite from Bugs Bunny Rabbit Rampage (SNES) - https://www.spriters-resource.com/snes/bugsbunnyrabbitrampage/sheet/44964/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                         {{.Tail}} 
                          {{.Tail}} 

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Pikachu */}}
-{{/* # by Unknown - https://www.pngfly.com/png-ebqeco/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Pikachu */ -}}
+{{- /* # by Unknown - https://www.pngfly.com/png-ebqeco/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}}               [48;5;234m    [49m                                            [48;5;234m      [49m  
                   {{.Tail}}             [48;5;234m  [48;5;239m  [48;5;234m    [49m                                    [48;5;234m    [48;5;239m  [48;5;234m    [49m  

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: My Little Pony: (Arc 1) [Issues 1-4] The Return of Queen Chrysalis, Merchandise */}}
-{{/* NAME: Sweetcream Scoops */}}
-{{/* OTHER NAMES: Sweetcream (shorter), Sweet Scream Scoop (Script) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: My Little Pony: (Arc 1) [Issues 1-4] The Return of Queen Chrysalis, Merchandise */ -}}
+{{- /* NAME: Sweetcream Scoops */ -}}
+{{- /* OTHER NAMES: Sweetcream (shorter), Sweet Scream Scoop (Script) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                            {{.Tail}}                     [00m

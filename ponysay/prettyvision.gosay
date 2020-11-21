@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E20 Green Isn't Your Color */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Pretty vision (unofficial), Elsie (unofficial), Suity Voyage (unofficial) */}}
-{{/* SOURCE: (Pony Noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E20 Green Isn't Your Color */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Pretty vision (unofficial), Elsie (unofficial), Suity Voyage (unofficial) */ -}}
+{{- /* SOURCE: (Pony Noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                     [00m

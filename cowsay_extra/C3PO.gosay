@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # C3PO */}}
-{{/* # adapted from 'telnet -e x towel.blinkenlights.nl' */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # C3PO */ -}}
+{{- /* # adapted from 'telnet -e x towel.blinkenlights.nl' */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

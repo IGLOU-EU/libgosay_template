@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E05 Sisterhooves Social */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Pearl (unofficial), Cookie Crumbles (official, on Trading Card Game), Betty bouffant (Gameloft game) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E05 Sisterhooves Social */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Pearl (unofficial), Cookie Crumbles (official, on Trading Card Game), Betty bouffant (Gameloft game) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                      {{.Tail}}                     [00m

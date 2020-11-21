@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E03 The Ticket Master */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Horte Cuisine (unofficial), Savoir Fare (official on Trading card) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E03 The Ticket Master */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Horte Cuisine (unofficial), Savoir Fare (official on Trading card) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                    [00m

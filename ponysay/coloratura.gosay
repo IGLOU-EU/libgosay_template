@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E24 The Mane Attraction */}}
-{{/* NAME: Countess */}}
-{{/* OTHER NAMES: Countess Coloratura (Artistic name, official), Rara (nickname, official) */}}
-{{/* SOURCE: (Starstep) Desktop ponies Deviantart group */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E24 The Mane Attraction */ -}}
+{{- /* NAME: Countess */ -}}
+{{- /* OTHER NAMES: Countess Coloratura (Artistic name, official), Rara (nickname, official) */ -}}
+{{- /* SOURCE: (Starstep) Desktop ponies Deviantart group */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                                     [00m

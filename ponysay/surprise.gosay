@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E03 The Ticket Master */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Surprise (official, on Tradings card game), Fleetfoot (Gameloft game beta) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E03 The Ticket Master */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Surprise (official, on Tradings card game), Fleetfoot (Gameloft game beta) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                 [00m

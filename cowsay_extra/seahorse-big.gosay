@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # large seahorse */}}
-{{/* # adapted from http://www.chris.com/ascii/index.php?art=animals/other%20(water) */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # large seahorse */ -}}
+{{- /* # adapted from http://www.chris.com/ascii/index.php?art=animals/other%20(water) */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

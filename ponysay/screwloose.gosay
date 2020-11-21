@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E16 Read It and Weep */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Screw Loose (unofficial), Screwy (official on Trading card) */}}
-{{/* SOURCE: (Bot-chsn) Desktop ponies, [jristz] until version 3.0.1 */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E16 Read It and Weep */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Screw Loose (unofficial), Screwy (official on Trading card) */ -}}
+{{- /* SOURCE: (Bot-chsn) Desktop ponies, [jristz] until version 3.0.1 */ -}}
 
 {{.Said}}[00m
      {{.Tail}}                                           [00m

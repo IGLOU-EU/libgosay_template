@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Twilight */}}
-{{/* OTHER NAMES: Twilight Sparkle (official, full name) */}}
-{{/* SOURCE: (Jay Wright, Humle, Bot-chan, StarStep, Anonycat, InfinityDash, supersayanmikito, aslic96) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Twilight */ -}}
+{{- /* OTHER NAMES: Twilight Sparkle (official, full name) */ -}}
+{{- /* SOURCE: (Jay Wright, Humle, Bot-chan, StarStep, Anonycat, InfinityDash, supersayanmikito, aslic96) Desktop ponies */ -}}
 
                                                          [00m
          [38;5;214m▄[48;5;214m█[49m▀▀[39m  [38;5;214m▄[48;5;214m█████[49;39m       [38;5;214m▄▄[39m                           [00m

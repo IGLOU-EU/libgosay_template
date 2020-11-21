@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E12 Family Appreciation Day */}}
-{{/* NAME: Filthy Rich */}}
-{{/* OTHER NAMES: Filthy (official, short name), Rich (official, he prefers that you call him by surname) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E12 Family Appreciation Day */ -}}
+{{- /* NAME: Filthy Rich */ -}}
+{{- /* OTHER NAMES: Filthy (official, short name), Rich (official, he prefers that you call him by surname) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
      {{.Tail}}                                       [00m

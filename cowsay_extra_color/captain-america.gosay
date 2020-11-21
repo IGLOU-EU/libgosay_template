@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Captain America */}}
-{{/* # by Gustavo Viselner - https://deskgram.net/explore/tags/GustavoViselner */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Captain America */ -}}
+{{- /* # by Gustavo Viselner - https://deskgram.net/explore/tags/GustavoViselner */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                   [48;5;26m      [48;5;17m    [49m  
                 {{.Tail}}               [48;5;26m  [48;5;17m            [49m  

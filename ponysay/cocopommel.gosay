@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E08 Rarity Takes Manehattan */}}
-{{/* NAME: Miss Pommel */}}
-{{/* OTHER NAMES: Coco (short), Coco Pommel (old name, changed for copyright reasons) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E08 Rarity Takes Manehattan */ -}}
+{{- /* NAME: Miss Pommel */ -}}
+{{- /* OTHER NAMES: Coco (short), Coco Pommel (old name, changed for copyright reasons) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                               [00m

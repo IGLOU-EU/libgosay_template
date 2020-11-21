@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E05 Griffon the Brush Off */}}
-{{/* NAME: Gilda */}}
-{{/* OTHER NAMES: Grizelda (initial name but not pass copyright) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E05 Griffon the Brush Off */ -}}
+{{- /* NAME: Gilda */ -}}
+{{- /* OTHER NAMES: Grizelda (initial name but not pass copyright) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                                                [00m

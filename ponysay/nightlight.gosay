@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E23 The Cutie Mark Chronicles */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Night Light (unofficial), Mr Sparkle, Crescent Sparkle (unofficial) */}}
-{{/* SOURCE: (Bot-chan, Anonycat) Desktop ponies, [jristz] (ponysay 2.8) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E23 The Cutie Mark Chronicles */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Night Light (unofficial), Mr Sparkle, Crescent Sparkle (unofficial) */ -}}
+{{- /* SOURCE: (Bot-chan, Anonycat) Desktop ponies, [jristz] (ponysay 2.8) */ -}}
 
 {{.Said}}[00m
                               {{.Tail}}         [00m

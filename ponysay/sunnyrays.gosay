@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E08 Look Before You Sleep */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Sunny Rays (official, in merchandise) */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E08 Look Before You Sleep */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Sunny Rays (official, in merchandise) */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                                [00m

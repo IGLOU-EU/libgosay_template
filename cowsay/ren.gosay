@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Ren  */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Ren  */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

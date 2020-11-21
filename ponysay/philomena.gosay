@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E22 A Bird in the Hoof */}}
-{{/* NAME: Philomena */}}
-{{/* SOURCE: (Pony Noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E22 A Bird in the Hoof */ -}}
+{{- /* NAME: Philomena */ -}}
+{{- /* SOURCE: (Pony Noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                        [00m

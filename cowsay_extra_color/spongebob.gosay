@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # SpongeBob Squarepants */}}
-{{/* # sprite from SpongeBob Squarepants: A Day in the Life of a Sponge - https://www.spriters-resource.com/v_smile/spongebobsquarepantsadayinthelifeofasponge/sheet/99519/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # SpongeBob Squarepants */ -}}
+{{- /* # sprite from SpongeBob Squarepants: A Day in the Life of a Sponge - https://www.spriters-resource.com/v_smile/spongebobsquarepantsadayinthelifeofasponge/sheet/99519/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       {{.Tail}} 
         {{.Tail}} 

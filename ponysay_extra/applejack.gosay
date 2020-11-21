@@ -1,6 +1,6 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Applejack (given by Lauren Faust) */}}
-{{/* SOURCE: Lauren Faust's deviantart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Applejack (given by Lauren Faust) */ -}}
+{{- /* SOURCE: Lauren Faust's deviantart */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                [00m

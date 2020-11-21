@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E09 Sweet and Elite */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Fleur de Lis (unofficial), Fleur Dis Lee (official, on Gameloft game) */}}
-{{/* SOURCE: (Pony Noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E09 Sweet and Elite */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Fleur de Lis (unofficial), Fleur Dis Lee (official, on Gameloft game) */ -}}
+{{- /* SOURCE: (Pony Noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
                          {{.Tail}}                    [00m

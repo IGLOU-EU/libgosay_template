@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Subzero (Mortal Kombat) */}}
-{{/* # sprite from Motal Kombat 2 (SNES) - https://www.spriters-resource.com/snes/mortalkombat2/sheet/40960/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Subzero (Mortal Kombat) */ -}}
+{{- /* # sprite from Motal Kombat 2 (SNES) - https://www.spriters-resource.com/snes/mortalkombat2/sheet/40960/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}}         [48;5;235m      [49m  

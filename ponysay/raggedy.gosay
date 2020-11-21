@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E09 Sweet and Elite */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Raggedy (unofficial), Raggedy Doctor (unofficial) */}}
-{{/* SOURCE: Desktop ponies deviantart group */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E09 Sweet and Elite */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Raggedy (unofficial), Raggedy Doctor (unofficial) */ -}}
+{{- /* SOURCE: Desktop ponies deviantart group */ -}}
 
 {{.Said}}[00m
               {{.Tail}}                        [00m

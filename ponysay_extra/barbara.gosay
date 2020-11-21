@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Barbara (In the first fanfic) */}}
-{{/* OTHER NAMES: Barbra (Other fanfics and fanart) */}}
-{{/* SOURCE: (starsparkless) Imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Barbara (In the first fanfic) */ -}}
+{{- /* OTHER NAMES: Barbra (Other fanfics and fanart) */ -}}
+{{- /* SOURCE: (starsparkless) Imageboard */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                     [00m

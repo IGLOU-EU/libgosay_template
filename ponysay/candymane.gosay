@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Frienship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Candy Mane (unofficial), Sugarcoat (unofficial) */}}
-{{/* SOURCE: (Pony Nooia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Frienship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Candy Mane (unofficial), Sugarcoat (unofficial) */ -}}
+{{- /* SOURCE: (Pony Nooia) Desktop ponies */ -}}
 
 {{.Said}}[00m
      {{.Tail}}                                         [00m

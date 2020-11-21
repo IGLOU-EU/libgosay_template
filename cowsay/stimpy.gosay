@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Stimpy! */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Stimpy! */ -}}
  {{.Said}}
   {{.Tail}}     .    _  .    
    {{.Tail}}    |\\_|/__/|    

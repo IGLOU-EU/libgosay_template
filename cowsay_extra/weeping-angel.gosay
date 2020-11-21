@@ -1,8 +1,8 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Weeping Angel */}}
-{{/* # Don't blink! */}}
-{{/* # based on design found at http://shirt.woot.com/derby/entry/73182/dont-blink */}}
-{{/* #   and http://infinitywave.deviantart.com/art/Don-t-Blink-tee-391963389 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Weeping Angel */ -}}
+{{- /* # Don't blink! */ -}}
+{{- /* # based on design found at http://shirt.woot.com/derby/entry/73182/dont-blink */ -}}
+{{- /* #   and http://infinitywave.deviantart.com/art/Don-t-Blink-tee-391963389 */ -}}
  {{.Said}}
        {{.Tail}}
         {{.Tail}}

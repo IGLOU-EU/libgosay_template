@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Wall-E w/ plant */}}
-{{/* # by damnireekrad - https://www.deviantart.com/damnireekrad/art/Wall-E-Pixel-281236152 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Wall-E w/ plant */ -}}
+{{- /* # by damnireekrad - https://www.deviantart.com/damnireekrad/art/Wall-E-Pixel-281236152 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       {{.Tail}}                                                   [48;5;113m  [48;5;149m  [49m  
         {{.Tail}}                                                   [48;5;149m  [48;5;113m  [49m  [48;5;149m  [49m  

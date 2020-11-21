@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E03 The Ticket Master */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Cherry Fizzy (official, collector card and toy line), Cherry Cola (unofficial), Cherry Coke (unofficial) */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E03 The Ticket Master */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Cherry Fizzy (official, collector card and toy line), Cherry Cola (unofficial), Cherry Coke (unofficial) */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                   [00m

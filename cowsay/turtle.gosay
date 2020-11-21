@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A mysterious turtle... */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A mysterious turtle... */ -}}
  {{.Said}}
     {{.Tail}}                                  ___-------___
      {{.Tail}}                             _-~~             ~~-_

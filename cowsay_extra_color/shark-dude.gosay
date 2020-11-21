@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shark Dude */}}
-{{/* # by /u/WarmSoda - https://www.reddit.com/r/PixelArt/comments/90gria/shark_dude/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shark Dude */ -}}
+{{- /* # by /u/WarmSoda - https://www.reddit.com/r/PixelArt/comments/90gria/shark_dude/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                   {{.Tail}}                                                                                                         [48;5;249m  [49m  
                     {{.Tail}}                                                                                                     [48;5;239m  [48;5;249m  [49m  

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Royal Ribbon (unofficial), Violet (unofficial) */}}
-{{/* SOURCE: (vulcan539/james539) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Royal Ribbon (unofficial), Violet (unofficial) */ -}}
+{{- /* SOURCE: (vulcan539/james539) Desktop ponies */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                 [00m

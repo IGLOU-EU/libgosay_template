@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Princess Hestelle */}}
-{{/* OTHER NAMES: Hestelle, Princessan Hestelle (Swedish name) */}}
-{{/* SOURCE: [maandree] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Princess Hestelle */ -}}
+{{- /* OTHER NAMES: Hestelle, Princessan Hestelle (Swedish name) */ -}}
+{{- /* SOURCE: [maandree] */ -}}
 
 Princess Hestelle was a mascot in the section for Section for Physics
 in the Royal Institute of Technology during the reception (hazing) of

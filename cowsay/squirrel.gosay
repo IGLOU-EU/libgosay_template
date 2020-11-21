@@ -1,4 +1,4 @@
-{{/* From https://github.com/schacon/cowsay */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
 
  {{.Said}}
   {{.Tail}}

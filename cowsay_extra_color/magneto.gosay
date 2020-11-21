@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Magneto (X-Men) */}}
-{{/* # sprite from X-Men (Arcade) - https://www.spriters-resource.com/arcade/xmen/sheet/109238/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Magneto (X-Men) */ -}}
+{{- /* # sprite from X-Men (Arcade) - https://www.spriters-resource.com/arcade/xmen/sheet/109238/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}} 
               {{.Tail}} 

@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* An elephant out and about */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* An elephant out and about */ -}}
  {{.Said}}
  {{.Tail}}     /\\  ___  /\\
   {{.Tail}}   // \\/   \\/ \\\\

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Larry David (Seinfeld, Curb Your Enthusiasm) */}}
-{{/* # by Charc0al (original art) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Larry David (Seinfeld, Curb Your Enthusiasm) */ -}}
+{{- /* # by Charc0al (original art) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}}                             [48;2;253;230;219m  [48;2;255;237;223m  [48;2;255;236;221m  [48;2;255;232;211m  [48;2;255;229;211m  [48;2;254;224;208m  [48;2;225;206;199m  [49m  

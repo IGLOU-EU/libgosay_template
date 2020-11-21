@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Buttons's Adventures ( http://youtu.be/S2VhC1QF7ww ) */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: (not mentioned for now) */}}
-{{/* OTHER NAMES: Button's mom */}}
-{{/* SOURCE: (mkanke) OC ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Buttons's Adventures ( http://youtu.be/S2VhC1QF7ww ) */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: (not mentioned for now) */ -}}
+{{- /* OTHER NAMES: Button's mom */ -}}
+{{- /* SOURCE: (mkanke) OC ponies */ -}}
 
 {{.Said}}[00m
                    {{.Tail}}                          [00m

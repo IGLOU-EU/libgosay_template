@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E01 The Cutie Map [Part 1] */}}
-{{/* NAME: Starlight Glimmer */}}
-{{/* OTHER NAMES: Starlight, Mayor Marx (By fans), Gimglim (by fans) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E01 The Cutie Map [Part 1] */ -}}
+{{- /* NAME: Starlight Glimmer */ -}}
+{{- /* OTHER NAMES: Starlight, Mayor Marx (By fans), Gimglim (by fans) */ -}}
 
 {{.Said}}                                                                                           [00m
                                                                                                  [00m

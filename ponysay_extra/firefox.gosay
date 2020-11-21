@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Firefox */}}
-{{/* OTHER NAMES: FF (leter name one behind another) */}}
-{{/* SOURCE: (bot-chan) OC ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Firefox */ -}}
+{{- /* OTHER NAMES: FF (leter name one behind another) */ -}}
+{{- /* SOURCE: (bot-chan) OC ponies */ -}}
 
 {{.Said}}[00m
                                 {{.Tail}}                    [00m

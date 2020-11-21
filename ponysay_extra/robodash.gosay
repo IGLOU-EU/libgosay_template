@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: MAGIC.MOV */}}
-{{/* NAME: Rainbow Dash 3000 */}}
-{{/* OTHER NAMES: Robo Dash */}}
-{{/* SOURCE: (Akumath) Sprite */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: MAGIC.MOV */ -}}
+{{- /* NAME: Rainbow Dash 3000 */ -}}
+{{- /* OTHER NAMES: Robo Dash */ -}}
+{{- /* SOURCE: (Akumath) Sprite */ -}}
 
 {{.Said}}[00m
              {{.Tail}}                [00m

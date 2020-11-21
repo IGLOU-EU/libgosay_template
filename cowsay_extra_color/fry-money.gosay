@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Phillip J Fry - "Shut up and take my money!" */}}
-{{/* # by ndbigdi - https://www.deviantart.com/ndbigdi/art/shut-up-and-take-my-money-perler-559048247 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Phillip J Fry - "Shut up and take my money!" */ -}}
+{{- /* # by ndbigdi - https://www.deviantart.com/ndbigdi/art/shut-up-and-take-my-money-perler-559048247 */ -}}
  {{.Said}}
         {{.Tail}}                                                        [48;5;235m  [49m  
           {{.Tail}}                                                      [48;5;235m    [49m  

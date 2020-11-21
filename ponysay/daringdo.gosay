@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E16 Read It and Weep */}}
-{{/* NAME: Daring Do */}}
-{{/* SOURCE: (Anonymous) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E16 Read It and Weep */ -}}
+{{- /* NAME: Daring Do */ -}}
+{{- /* SOURCE: (Anonymous) Desktop ponies */ -}}
 
 {{.Said}}[00m
                            {{.Tail}}                      [00m

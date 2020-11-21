@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Sniper (Team Fortress 2) - cropped */}}
-{{/* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Pixel-The-Round-Up-374953611 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Sniper (Team Fortress 2) - cropped */ -}}
+{{- /* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Pixel-The-Round-Up-374953611 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                         {{.Tail}}                                                                           [48;5;234m          [49m  
                                           {{.Tail}}                                                               [48;5;234m          [48;5;101m  [48;5;234m            [49m  

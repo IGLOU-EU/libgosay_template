@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: My Little Pony: Equestria Girls */}}
-{{/* NAME: Flash Sentry */}}
-{{/* OTHER NAMES: Brad (unofficial, on EquestriaDaily comments and tags) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: My Little Pony: Equestria Girls */ -}}
+{{- /* NAME: Flash Sentry */ -}}
+{{- /* OTHER NAMES: Brad (unofficial, on EquestriaDaily comments and tags) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
                                  {{.Tail}}            [00m

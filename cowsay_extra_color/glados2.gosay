@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # GLaDOS (Portal) */}}
-{{/* # by u/RoJayJo - https://www.reddit.com/r/Portal/comments/b51my5/a_pixel_art_glados_i_made_in_2017/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # GLaDOS (Portal) */ -}}
+{{- /* # by u/RoJayJo - https://www.reddit.com/r/Portal/comments/b51my5/a_pixel_art_glados_i_made_in_2017/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
     [49m     {{.Tail}}                                                                      [48;5;234m  [48;5;208m  [48;5;238m  [48;5;234m  [48;5;208m  [48;5;234m  [49m  
           {{.Tail}}                                                                   [48;5;234m    [48;5;208m  [48;5;238m  [48;5;234m  [48;5;208m  [48;5;238m  [48;5;234m  [49m  [48;5;234m        [49m  

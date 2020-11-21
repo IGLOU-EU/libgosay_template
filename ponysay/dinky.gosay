@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E11 Winter Wrap Up */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Dinky Doo (unofficial), Dinky Hooves (unofficial), Fire Starter (official on Gamelofrt game) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E11 Winter Wrap Up */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Dinky Doo (unofficial), Dinky Hooves (unofficial), Fire Starter (official on Gamelofrt game) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                               [00m

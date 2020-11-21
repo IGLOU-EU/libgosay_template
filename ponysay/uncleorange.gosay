@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E23 The Cutie Mark Chronicles */}}
-{{/* NAME: Uncle Orange */}}
-{{/* OTHER NAMES: Mosely Orange (unofficial, on toy line) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E23 The Cutie Mark Chronicles */ -}}
+{{- /* NAME: Uncle Orange */ -}}
+{{- /* OTHER NAMES: Mosely Orange (unofficial, on toy line) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                  [00m

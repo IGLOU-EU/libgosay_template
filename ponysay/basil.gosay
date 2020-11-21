@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E07 Dragonshy */}}
-{{/* LICENSE: cc-by */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Basil (unofficial) */}}
-{{/* SOURCE: Pony Fantasy 6 */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E07 Dragonshy */ -}}
+{{- /* LICENSE: cc-by */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Basil (unofficial) */ -}}
+{{- /* SOURCE: Pony Fantasy 6 */ -}}
 
 {{.Said}}[00m
                                                       {{.Tail}}                              [00m

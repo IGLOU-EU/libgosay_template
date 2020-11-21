@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* LICENSE: cc-by-nc-sa */}}
-{{/* NAME: Cherry Berry */}}
-{{/* OTHER NAMES: Cherry Jubilee (common mistake, this is another pony) */}}
-{{/* SOURCE: (Tyranico) Desktop ponies Deviantart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* LICENSE: cc-by-nc-sa */ -}}
+{{- /* NAME: Cherry Berry */ -}}
+{{- /* OTHER NAMES: Cherry Jubilee (common mistake, this is another pony) */ -}}
+{{- /* SOURCE: (Tyranico) Desktop ponies Deviantart */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}                      [00m

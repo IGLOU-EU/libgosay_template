@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bob Belcher */}}
-{{/* # by Unknown - https://giphy.com/gifs/rvoMMtlqibZYY */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bob Belcher */ -}}
+{{- /* # by Unknown - https://giphy.com/gifs/rvoMMtlqibZYY */ -}}
  {{.Said}}
      {{.Tail}} 
       {{.Tail}}          [48;5;235m      [49m  

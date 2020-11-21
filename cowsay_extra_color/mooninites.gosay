@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Mooninites */}}
-{{/* # by Charc0al (original art) */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Mooninites */ -}}
+{{- /* # by Charc0al (original art) */ -}}
  {{.Said}}
    {{.Tail}} 
     {{.Tail}} 

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E10 Secret of My Excess */}}
-{{/* NAME: Doc Top */}}
-{{/* OTHER NAMES: Hippocrates (unofficial), Dr. Gregory Horse (unofficial), Horse MD (unofficial), MD Horse (unofficial) */}}
-{{/* SOURCE: My Little Pony On-Line */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E10 Secret of My Excess */ -}}
+{{- /* NAME: Doc Top */ -}}
+{{- /* OTHER NAMES: Hippocrates (unofficial), Dr. Gregory Horse (unofficial), Horse MD (unofficial), MD Horse (unofficial) */ -}}
+{{- /* SOURCE: My Little Pony On-Line */ -}}
 
 {{.Said}}[00m
  {{.Tail}}                              [00m

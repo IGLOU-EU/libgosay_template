@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # One Punch Man */}}
-{{/* # by u/V055K - https://www.reddit.com/r/OnePunchMan/comments/c046i3/no_spoiler_pixelartsaitama_by_me/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # One Punch Man */ -}}
+{{- /* # by u/V055K - https://www.reddit.com/r/OnePunchMan/comments/c046i3/no_spoiler_pixelartsaitama_by_me/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                {{.Tail}} 
         [48;5;167m    [48;5;234m  [49m                   {{.Tail}}                          [48;5;180m          [49m  

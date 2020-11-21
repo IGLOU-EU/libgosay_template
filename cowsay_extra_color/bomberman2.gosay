@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bomberman */}}
-{{/* # by u/mrbrownjeremy - https://www.reddit.com/r/PixelArt/comments/5o53dt/oc_bomberman/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bomberman */ -}}
+{{- /* # by u/mrbrownjeremy - https://www.reddit.com/r/PixelArt/comments/5o53dt/oc_bomberman/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}}                                                                               [48;5;229m  [49m  
                   {{.Tail}}                                                                             [48;5;229m  [49m        [48;5;220m  [49m  

@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S07E19 It Isn't the Mane Thing About You */}}
-{{/* LICENSE: Creative Commons Attribution 3.0 */}}
-{{/* NAME: Rarity */}}
-{{/* OTHER NAMES: Raripunk */}}
-{{/* SOURCE: PhonicBoom */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S07E19 It Isn't the Mane Thing About You */ -}}
+{{- /* LICENSE: Creative Commons Attribution 3.0 */ -}}
+{{- /* NAME: Rarity */ -}}
+{{- /* OTHER NAMES: Raripunk */ -}}
+{{- /* SOURCE: PhonicBoom */ -}}
 
 {{.Said}}[00m
                   {{.Tail}}                            [00m

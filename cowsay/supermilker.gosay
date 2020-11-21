@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A cow being milked, probably from Lars Smith (lars@csua.berkeley.edu) */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A cow being milked, probably from Lars Smith (lars@csua.berkeley.edu) */ -}}
  {{.Said}}
   {{.Tail}}   ^__^
    {{.Tail}}  ({{.EyeL}}{{.EyeR}})\\_______        ________

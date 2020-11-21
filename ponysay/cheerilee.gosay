@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E06 Boast Busters */}}
-{{/* NAME: Cheerilee */}}
-{{/* OTHER NAMES: Cheerelee (McDonald toy), Cheerilee Pie (on Gameloft game beta), Chirayli (official, russian) */}}
-{{/* SOURCE: (Humle) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E06 Boast Busters */ -}}
+{{- /* NAME: Cheerilee */ -}}
+{{- /* OTHER NAMES: Cheerelee (McDonald toy), Cheerilee Pie (on Gameloft game beta), Chirayli (official, russian) */ -}}
+{{- /* SOURCE: (Humle) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                        [00m

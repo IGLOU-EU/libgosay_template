@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E04 Applebuck Season */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: (not mentioned) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E04 Applebuck Season */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 The person who associated a work with this deed has dedicated the work to
 the public domain by waiving all of his or her rights to the work worldwide under

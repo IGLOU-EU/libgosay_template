@@ -1,6 +1,6 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* This 'Scowleton' brought to you by one of  */}}
-{{/* {appel,kube,rowe}@csua.berkeley.edu */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* This 'Scowleton' brought to you by one of  */ -}}
+{{- /* {appel,kube,rowe}@csua.berkeley.edu */ -}}
  {{.Said}}
           {{.Tail}}      (__)      
            {{.Tail}}     /{{.EyeL}}{{.EyeR}}|  

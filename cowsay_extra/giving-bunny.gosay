@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # "Giving bunny" */}}
-{{/* # e.g.: https://twitter.com/theoneringnet/status/1062741569596342272 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # "Giving bunny" */ -}}
+{{- /* # e.g.: https://twitter.com/theoneringnet/status/1062741569596342272 */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

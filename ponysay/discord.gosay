@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E01 The Return of Harmony [Part 1] */}}
-{{/* NAME: Discord */}}
-{{/* SOURCE: (StartStep) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E01 The Return of Harmony [Part 1] */ -}}
+{{- /* NAME: Discord */ -}}
+{{- /* SOURCE: (StartStep) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                                                                     [00m

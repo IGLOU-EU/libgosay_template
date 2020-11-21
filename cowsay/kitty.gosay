@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A kitten of sorts, I think */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A kitten of sorts, I think */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

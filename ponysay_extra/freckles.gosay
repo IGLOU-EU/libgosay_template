@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Ask King Sombra: Chapter 3 Part 2 */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Freckles */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Ask King Sombra: Chapter 3 Part 2 */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Freckles */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
  {{.Tail}}                                                   [00m

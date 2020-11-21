@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E23 The Cutie Mark Chronicles */}}
-{{/* NAME: Igneous Rock */}}
-{{/* OTHER NAMES: Clyde (unofficial), Igneous Rock Pie (Official, promotional material) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E23 The Cutie Mark Chronicles */ -}}
+{{- /* NAME: Igneous Rock */ -}}
+{{- /* OTHER NAMES: Clyde (unofficial), Igneous Rock Pie (Official, promotional material) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
        {{.Tail}}      [38;5;236m▄[48;5;236;38;5;239m▄▄[49;38;5;236m▄[39m                             [00m

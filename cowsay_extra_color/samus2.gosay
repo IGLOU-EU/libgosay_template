@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Samus Aran (Metroid) */}}
-{{/* # by BerserkerOx - https://www.deviantart.com/berserkerox/art/Super-Smash-Bros-Ultimate-Sprite-760019333 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Samus Aran (Metroid) */ -}}
+{{- /* # by BerserkerOx - https://www.deviantart.com/berserkerox/art/Super-Smash-Bros-Ultimate-Sprite-760019333 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                     {{.Tail}} 
                       {{.Tail}} 

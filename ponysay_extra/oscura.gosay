@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Queen Oscura (Given by the author) */}}
-{{/* OTHER NAMES: Oscura (Without her tittle) */}}
-{{/* SOURCE: [Jristz], based on (Brendanbass) work */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Queen Oscura (Given by the author) */ -}}
+{{- /* OTHER NAMES: Oscura (Without her tittle) */ -}}
+{{- /* SOURCE: [Jristz], based on (Brendanbass) work */ -}}
 
 {{.Said}}^[[00m                                                                                        [00m
                            {{.Tail}}                                                                  [00m

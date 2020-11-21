@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E04 One Bad Apple */}}
-{{/* NAME: Bab Seed */}}
-{{/* OTHER NAMES: Bad Seed (official, nickname by Applebloom) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E04 One Bad Apple */ -}}
+{{- /* NAME: Bab Seed */ -}}
+{{- /* OTHER NAMES: Bad Seed (official, nickname by Applebloom) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                           [00m

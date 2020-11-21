@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E07 Make New Friends but Keep Discord */}}
-{{/* NAME: Tree Hugger */}}
-{{/* OTHER NAMES: Tree griend (mentioned), Tree embrace (mentioned), Treezie (mentioned), The hugs (mentioned) */}}
-{{/* SOURCE: (Bot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E07 Make New Friends but Keep Discord */ -}}
+{{- /* NAME: Tree Hugger */ -}}
+{{- /* OTHER NAMES: Tree griend (mentioned), Tree embrace (mentioned), Treezie (mentioned), The hugs (mentioned) */ -}}
+{{- /* SOURCE: (Bot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
           {{.Tail}}                                   [00m

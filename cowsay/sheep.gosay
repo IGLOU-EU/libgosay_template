@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* The non-flaming sheep. */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* The non-flaming sheep. */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}}

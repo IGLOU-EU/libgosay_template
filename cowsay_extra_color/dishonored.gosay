@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Corvo (Dishonored) - true color */}}
-{{/* # by mirugin - https://www.deviantart.com/mirugin/art/Corvo-Attano-Dishonored-419703179 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Corvo (Dishonored) - true color */ -}}
+{{- /* # by mirugin - https://www.deviantart.com/mirugin/art/Corvo-Attano-Dishonored-419703179 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                       {{.Tail}}                                 [48;2;74;17;29m        [49m  
                         {{.Tail}}                           [48;2;74;17;29m    [48;2;78;63;84m  [48;2;79;99;123m    [48;2;101;122;147m  [48;2;74;17;29m    [49m  

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Agent 47 (HITMAN) */}}
-{{/* # by dzstudiozzz - https://www.redbubble.com/people/dzstudiozzz/works/32244496-hitman-agent-47?p=sticker */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Agent 47 (HITMAN) */ -}}
+{{- /* # by dzstudiozzz - https://www.redbubble.com/people/dzstudiozzz/works/32244496-hitman-agent-47?p=sticker */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                     {{.Tail}}                                           [48;5;250m      [48;5;249m    [49m  
                                       {{.Tail}}                                   [48;5;239m  [48;5;250m    [48;5;249m  [48;5;250m        [48;5;249m    [48;5;231m    [49m  

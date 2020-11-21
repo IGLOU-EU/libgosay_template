@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E20 Green isn't Your Color */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Creme Brulee (unofficial), Chance-A-Lot (unofficial, but the toy ressemble him) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E20 Green isn't Your Color */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Creme Brulee (unofficial), Chance-A-Lot (unofficial, but the toy ressemble him) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
                              {{.Tail}}                     [00m

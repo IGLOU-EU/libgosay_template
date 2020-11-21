@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E11 Just For Sidekicks */}}
-{{/* NAME: Little Pony */}}
-{{/* OTHER NAMES: Ginger Snap (unoffcial, used by other ponys) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E11 Just For Sidekicks */ -}}
+{{- /* NAME: Little Pony */ -}}
+{{- /* OTHER NAMES: Ginger Snap (unoffcial, used by other ponys) */ -}}
 
 {{.Said}}[00m
                   {{.Tail}}               [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Mumbo Jumbo (Banjo Kazooie) */}}
-{{/* # by Bwar - https://www.vg-resource.com/archive/index.php/thread-20583-12.html */}}
-{{/* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Mumbo Jumbo (Banjo Kazooie) */ -}}
+{{- /* # by Bwar - https://www.vg-resource.com/archive/index.php/thread-20583-12.html */ -}}
+{{- /* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       {{.Tail}} 
         {{.Tail}}         [48;5;233m    [49m  

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E01 The Cutie Map [Part 1] */}}
-{{/* NAME: Double Diamond */}}
-{{/* SOURCE: (Beot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E01 The Cutie Map [Part 1] */ -}}
+{{- /* NAME: Double Diamond */ -}}
+{{- /* SOURCE: (Beot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                      [00m

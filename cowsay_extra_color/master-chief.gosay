@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Master Chief (Halo) */}}
-{{/* # by firedwarf - https://firedwarf.artstation.com/projects/kamLd */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Master Chief (Halo) */ -}}
+{{- /* # by firedwarf - https://firedwarf.artstation.com/projects/kamLd */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}} 
               {{.Tail}}                       [48;5;58m      [48;5;106m    [49m  

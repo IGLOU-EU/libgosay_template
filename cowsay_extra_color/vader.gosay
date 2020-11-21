@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Darth Vader */}}
-{{/* # by JBrosGaming - https://www.youtube.com/watch?v=f_USp9m9Dkc */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Darth Vader */ -}}
+{{- /* # by JBrosGaming - https://www.youtube.com/watch?v=f_USp9m9Dkc */ -}}
  {{.Said}}
                         {{.Tail}} 
                           {{.Tail}}                           [48;5;235m                  [49m  

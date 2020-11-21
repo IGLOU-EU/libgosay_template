@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ghostface (Scream) */}}
-{{/* # by Maninthebook - https://www.pinterest.com/pin/331647960043274810/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ghostface (Scream) */ -}}
+{{- /* # by Maninthebook - https://www.pinterest.com/pin/331647960043274810/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                     {{.Tail}} 
                                       {{.Tail}} 

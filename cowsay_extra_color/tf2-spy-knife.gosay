@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Spy w/ knife (Team Fortress 2) */}}
-{{/* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Spy-Alt-351722086 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Spy w/ knife (Team Fortress 2) */ -}}
+{{- /* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Spy-Alt-351722086 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                {{.Tail}} 
                         [48;5;66m  [49m       {{.Tail}}              [48;5;234m              [49m  

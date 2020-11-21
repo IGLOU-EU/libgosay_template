@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E03 The Ticket Master */}}
-{{/* NAME: Soarin */}}
-{{/* SOURCE: (StarStep, Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E03 The Ticket Master */ -}}
+{{- /* NAME: Soarin */ -}}
+{{- /* SOURCE: (StarStep, Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
           {{.Tail}}                                         [00m

@@ -1,6 +1,6 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* TuX */}}
-{{/* (c) pborys@p-soft.silesia.linux.org.pl  */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* TuX */ -}}
+{{- /* (c) pborys@p-soft.silesia.linux.org.pl  */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

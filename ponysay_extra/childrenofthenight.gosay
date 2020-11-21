@@ -1,12 +1,12 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Children of the Night ( http://youtu.be/jW5n3k2VgZE ) */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Spirit */}}
-{{/* NAME: Magpie */}}
-{{/* NAME: Night Light */}}
-{{/* NAME: Gari */}}
-{{/* NAME: Springsign */}}
-{{/* NAME: Moondancer */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Children of the Night ( http://youtu.be/jW5n3k2VgZE ) */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Spirit */ -}}
+{{- /* NAME: Magpie */ -}}
+{{- /* NAME: Night Light */ -}}
+{{- /* NAME: Gari */ -}}
+{{- /* NAME: Springsign */ -}}
+{{- /* NAME: Moondancer */ -}}
 
 https://creativecommons.org/licenses/by-sa/3.0/legalcode
 {{.Said}}[00m

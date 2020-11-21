@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Darth Vader (Star Wars) - cropped */}}
-{{/* # by Z-Studios - https://www.deviantart.com/z-studios/art/Vader-Lightsaber-Throw-729542643 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Darth Vader (Star Wars) - cropped */ -}}
+{{- /* # by Z-Studios - https://www.deviantart.com/z-studios/art/Vader-Lightsaber-Throw-729542643 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                   {{.Tail}}                 [48;5;236m  [48;5;238m      [49m  
                     {{.Tail}}             [48;5;237m  [48;5;232m  [48;5;237m  [48;5;238m  [48;5;235m  [48;5;239m  [49m  

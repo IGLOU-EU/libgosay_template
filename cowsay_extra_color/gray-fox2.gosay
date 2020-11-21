@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Gray Fox (Metal Gear Solid) */}}
-{{/* # by /u/Onceyougowalrus - https://www.reddit.com/r/PixelArt/comments/6arpxo/ocmetal_gear_solid/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Gray Fox (Metal Gear Solid) */ -}}
+{{- /* # by /u/Onceyougowalrus - https://www.reddit.com/r/PixelArt/comments/6arpxo/ocmetal_gear_solid/ */ -}}
  {{.Said}}
             {{.Tail}}                                                                                                                                 [107m    [49m  
               {{.Tail}}                                                                                                                           [107m    [48;5;189m    [49m  

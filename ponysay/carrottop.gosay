@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Frienship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Golden Harvest (official, on collector card), Carrot Top (traiding card state this is they nick name) */}}
-{{/* SOURCE: (Candybag, Pony noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Frienship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Golden Harvest (official, on collector card), Carrot Top (traiding card state this is they nick name) */ -}}
+{{- /* SOURCE: (Candybag, Pony noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
                      {{.Tail}}                      [00m

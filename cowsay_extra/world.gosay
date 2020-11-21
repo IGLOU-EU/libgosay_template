@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # World */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # World */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

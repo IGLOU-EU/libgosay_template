@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Rainbow Dash Present: Capitain Hook The Biker Gorrila (whish is secretely Rainbow Factory - don't tell to Equestria Daily), Investment Losses */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Aurora */}}
-{{/* SOURCE: Fan Video */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Rainbow Dash Present: Capitain Hook The Biker Gorrila (whish is secretely Rainbow Factory - don't tell to Equestria Daily), Investment Losses */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Aurora */ -}}
+{{- /* SOURCE: Fan Video */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                         [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Catdog */}}
-{{/* # by Unknown - https://www.pinterest.com/pin/390616967669864130/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Catdog */ -}}
+{{- /* # by Unknown - https://www.pinterest.com/pin/390616967669864130/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
         {{.Tail}} 
           {{.Tail}} 

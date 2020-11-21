@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E17 Hearts and Hooves Days */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Hairy Tipper (unofficial), Dance Fever (official on Trading card) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E17 Hearts and Hooves Days */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Hairy Tipper (unofficial), Dance Fever (official on Trading card) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
                            {{.Tail}}                   [00m

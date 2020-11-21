@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E08 The Mysterious Mare Do Well */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Cream Puff (official on DVD captions) */}}
-{{/* SOURCE: [Jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E08 The Mysterious Mare Do Well */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Cream Puff (official on DVD captions) */ -}}
+{{- /* SOURCE: [Jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
        {{.Tail}}                        [00m

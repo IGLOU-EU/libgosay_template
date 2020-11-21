@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Donald w/ hat */}}
-{{/* # by Charc0al, original art by som3a982 - https://imgur.com/gallery/COpzY */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Donald w/ hat */ -}}
+{{- /* # by Charc0al, original art by som3a982 - https://imgur.com/gallery/COpzY */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
         {{.Tail}} 
           {{.Tail}} 

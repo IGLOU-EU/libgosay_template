@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E02 Return of Harmony [Part 2] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Screwball (unofficial) */}}
-{{/* SOURCE: (DeathPony/deathpwny) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E02 Return of Harmony [Part 2] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Screwball (unofficial) */ -}}
+{{- /* SOURCE: (DeathPony/deathpwny) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                                 [00m

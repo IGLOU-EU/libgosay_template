@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E20 Green isn't Your Color */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Film Reel (unofficial) */}}
-{{/* SOURCE: (The benseh report) Ponibooru.org */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E20 Green isn't Your Color */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Film Reel (unofficial) */ -}}
+{{- /* SOURCE: (The benseh report) Ponibooru.org */ -}}
 
 {{.Said}}[00m
        {{.Tail}}                                            [00m

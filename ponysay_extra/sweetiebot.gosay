@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E05 Sisterhooves Social */}}
-{{/* NAME: Sweetie Belle */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E05 Sisterhooves Social */ -}}
+{{- /* NAME: Sweetie Belle */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                                [00m

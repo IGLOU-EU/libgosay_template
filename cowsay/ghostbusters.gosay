@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Ghostbusters! */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Ghostbusters! */ -}}
  {{.Said}}
           {{.Tail}}
            {{.Tail}}

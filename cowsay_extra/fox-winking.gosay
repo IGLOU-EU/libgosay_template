@@ -1,8 +1,8 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Fox winking */}}
-{{/* # akierig */}}
-{{/* # 2019-12-14 */}}
-{{/* # modified version of original fox.cow file.  */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Fox winking */ -}}
+{{- /* # akierig */ -}}
+{{- /* # 2019-12-14 */ -}}
+{{- /* # modified version of original fox.cow file.  */ -}}
  {{.Said}}
 {{.Tail}}
  {{.Tail}}

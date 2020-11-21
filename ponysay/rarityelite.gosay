@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Rarity */}}
-{{/* SOURCE: (interobangpie) imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Rarity */ -}}
+{{- /* SOURCE: (interobangpie) imageboard */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                         [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E07 Wonderbolts Academy */}}
-{{/* NAME: Lightning Dust */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E07 Wonderbolts Academy */ -}}
+{{- /* NAME: Lightning Dust */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                         [00m

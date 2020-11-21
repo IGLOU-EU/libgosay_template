@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E20 Green isn't Your Color */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Aloe (official, on merchandise) */}}
-{{/* SOURCE: (Jay Wright/Monkey Jay) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E20 Green isn't Your Color */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Aloe (official, on merchandise) */ -}}
+{{- /* SOURCE: (Jay Wright/Monkey Jay) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                  [00m

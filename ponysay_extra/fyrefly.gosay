@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Fyrefly (previous generation) */}}
-{{/* SOURCE: (Bot-chan) imageboard, (months later) Desktop ponies OC */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Fyrefly (previous generation) */ -}}
+{{- /* SOURCE: (Bot-chan) imageboard, (months later) Desktop ponies OC */ -}}
 
 {{.Said}}[00m
                {{.Tail}}                    [00m

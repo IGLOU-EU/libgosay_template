@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E04 Applebuck Season */}}
-{{/* NAME: Mrs Cup Cake */}}
-{{/* OTHER NAMES: Cup Cake, Mrs Cupcake, Cupcake */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E04 Applebuck Season */ -}}
+{{- /* NAME: Mrs Cup Cake */ -}}
+{{- /* OTHER NAMES: Cup Cake, Mrs Cupcake, Cupcake */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}                    [00m

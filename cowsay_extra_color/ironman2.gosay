@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Iron Man */}}
-{{/* # by Gustavo Viselner - https://deskgram.net/explore/tags/GustavoViselner */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Iron Man */ -}}
+{{- /* # by Gustavo Viselner - https://deskgram.net/explore/tags/GustavoViselner */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}}                       [48;5;124m          [49m  
                   {{.Tail}}                   [48;5;124m  [48;5;136m  [48;5;214m    [48;5;88m  [48;5;214m    [49m  

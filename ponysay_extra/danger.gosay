@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Moonstuck reply 103 */}}
-{{/* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Danger McSteele (given by the autor) */}}
-{{/* SOURCE: imageboard, [jristz] (ponysay 2.9.1) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Moonstuck reply 103 */ -}}
+{{- /* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Danger McSteele (given by the autor) */ -}}
+{{- /* SOURCE: imageboard, [jristz] (ponysay 2.9.1) */ -}}
 
 {{.Said}}[00m
           {{.Tail}}                   [00m

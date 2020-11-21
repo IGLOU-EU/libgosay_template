@@ -1,9 +1,9 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Ask King Sombra: Chapter 1 Part 1 */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Coffee Talk */}}
-{{/* OTHER NAMES: CT (used by fans), Coffee (short) */}}
-{{/* SOURCE: (Genayre) Tumblpon */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Ask King Sombra: Chapter 1 Part 1 */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Coffee Talk */ -}}
+{{- /* OTHER NAMES: CT (used by fans), Coffee (short) */ -}}
+{{- /* SOURCE: (Genayre) Tumblpon */ -}}
 
 {{.Said}}[00m
                             {{.Tail}}                    [00m

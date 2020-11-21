@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Bronies: The Extremely Unexpected Adult Fans of My Little Pony */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: John de Lancie (owner name, given by the author) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Bronies: The Extremely Unexpected Adult Fans of My Little Pony */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: John de Lancie (owner name, given by the author) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                           [00m

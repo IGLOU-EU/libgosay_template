@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ewok (Star Wars) */}}
-{{/* # by fuckyeah-pixels - https://fuckyeah-pixels.tumblr.com/post/45945519890/amp */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ewok (Star Wars) */ -}}
+{{- /* # by fuckyeah-pixels - https://fuckyeah-pixels.tumblr.com/post/45945519890/amp */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}} 

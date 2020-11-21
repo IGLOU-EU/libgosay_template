@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Medic (Team Fortress 2) - cropped */}}
-{{/* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Medic-349021346 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Medic (Team Fortress 2) - cropped */ -}}
+{{- /* # by Ultrabananabuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Medic-349021346 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                                                                               [48;5;235m            [49m  
             {{.Tail}}                                                                             [48;5;235m                  [49m  

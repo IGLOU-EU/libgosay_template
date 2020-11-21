@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Isaac (Dead Space) - cropped */}}
-{{/* # by lPetardol - https://www.deviantart.com/lpetardol/art/Dead-Space-Pixel-Art-702777348 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Isaac (Dead Space) - cropped */ -}}
+{{- /* # by lPetardol - https://www.deviantart.com/lpetardol/art/Dead-Space-Pixel-Art-702777348 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
     {{.Tail}}                   [48;5;236m      [48;5;241m  [48;5;230m  [48;5;248m  [48;5;239m    [48;5;248m  [48;5;230m  [49m  
       {{.Tail}}               [48;5;236m    [48;5;241m  [48;5;145m  [48;5;241m      [48;5;230m  [48;5;239m  [48;5;233m  [48;5;248m  [48;5;230m  [49m  

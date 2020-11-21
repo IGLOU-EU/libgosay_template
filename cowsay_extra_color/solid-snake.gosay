@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Solid Snake (Metal Gear Solid) */}}
-{{/* # by /u/Onceyougowalrus - https://www.reddit.com/r/PixelArt/comments/6arpxo/ocmetal_gear_solid/ */}}
-{{/* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Solid Snake (Metal Gear Solid) */ -}}
+{{- /* # by /u/Onceyougowalrus - https://www.reddit.com/r/PixelArt/comments/6arpxo/ocmetal_gear_solid/ */ -}}
+{{- /* # Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
         {{.Tail}}                     [48;5;236m  [48;5;94m  [49m  
           {{.Tail}}             [48;5;234m  [48;5;235m  [48;5;236m  [48;5;94m    [49m    [48;5;234m    [48;5;238m  [48;5;60m  [49m  

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E12 Spice Your Life */}}
-{{/* NAME: Coriander Cumin */}}
-{{/* SOURCE: (Bot-Chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E12 Spice Your Life */ -}}
+{{- /* NAME: Coriander Cumin */ -}}
+{{- /* SOURCE: (Bot-Chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                 [00m

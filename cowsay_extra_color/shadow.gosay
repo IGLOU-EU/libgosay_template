@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shadow the Hedgehog (Sonic Adventure 2) */}}
-{{/* # by Unknown - http://pixelartmaker.com/art/9c9d1ed967cc510 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shadow the Hedgehog (Sonic Adventure 2) */ -}}
+{{- /* # by Unknown - http://pixelartmaker.com/art/9c9d1ed967cc510 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}} 

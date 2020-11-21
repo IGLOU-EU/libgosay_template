@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E01 The Crystalling [Part 1] */}}
-{{/* NAME: Flurry Heart */}}
-{{/* OTHER NAMES: Princess Flurry Heart (Official, full tittle) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E01 The Crystalling [Part 1] */ -}}
+{{- /* NAME: Flurry Heart */ -}}
+{{- /* OTHER NAMES: Princess Flurry Heart (Official, full tittle) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                   {{.Tail}}                [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Dr Hooves #3 (mentioned on the fanart) */}}
-{{/* OTHER NAMES: Dr Whoof, Dr Whooves (Used on fanfics) */}}
-{{/* SOURCE: fanart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Dr Hooves #3 (mentioned on the fanart) */ -}}
+{{- /* OTHER NAMES: Dr Whoof, Dr Whooves (Used on fanfics) */ -}}
+{{- /* SOURCE: fanart */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                         [00m

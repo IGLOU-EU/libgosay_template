@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* The Budweiser frogs */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* The Budweiser frogs */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

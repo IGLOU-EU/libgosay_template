@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Snowball w/ mech suit (Rick and Morty) */}}
-{{/* # by Urserker - https://www.deviantart.com/urserker/art/Pixel-Art-Snowball-Snuffles-705626880 */}}
-{{/* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Snowball w/ mech suit (Rick and Morty) */ -}}
+{{- /* # by Urserker - https://www.deviantart.com/urserker/art/Pixel-Art-Snowball-Snuffles-705626880 */ -}}
+{{- /* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                         [48;5;110m    [48;5;61m      [49m  
                 {{.Tail}}                     [48;5;110m  [49m          [48;5;236m  [48;5;237m  [49m  

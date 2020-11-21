@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E14 Filly Vanilli */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Nightjar (Fan name) */}}
-{{/* SOURCE: (Bot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E14 Filly Vanilli */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Nightjar (Fan name) */ -}}
+{{- /* SOURCE: (Bot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                 {{.Tail}}                               [00m

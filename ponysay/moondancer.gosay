@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E12 Amending Fences */}}
-{{/* NAME: Moondancer */}}
-{{/* OTHER NAMES: Moon Dancer (alternate official spelling) */}}
-{{/* SOURCE: (Bot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E12 Amending Fences */ -}}
+{{- /* NAME: Moondancer */ -}}
+{{- /* OTHER NAMES: Moon Dancer (alternate official spelling) */ -}}
+{{- /* SOURCE: (Bot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
           {{.Tail}}                                    [00m

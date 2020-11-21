@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E26 The Best Night Ever */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Beauty Brass (official, on Gameloft game) */}}
-{{/* SOURCE: (asluc96) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E26 The Best Night Ever */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Beauty Brass (official, on Gameloft game) */ -}}
+{{- /* SOURCE: (asluc96) Desktop ponies */ -}}
 
 {{.Said}}[00m
                    $/$                   [00m

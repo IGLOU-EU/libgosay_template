@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: CC0 (CC0 1.0 Universal) */}}
-{{/* NAME: Surprise (official, previous generation) */}}
-{{/* SOURCE: [jristz] based on (Jay Wright, DeathPony/deathpwny) Desktop ponies OC */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: CC0 (CC0 1.0 Universal) */ -}}
+{{- /* NAME: Surprise (official, previous generation) */ -}}
+{{- /* SOURCE: [jristz] based on (Jay Wright, DeathPony/deathpwny) Desktop ponies OC */ -}}
 
 The person who associated a work with this deed has dedicated the work to
 the public domain by waiving all of his or her rights to the work worldwide under

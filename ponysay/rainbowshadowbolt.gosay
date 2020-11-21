@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Rainbow Dash */}}
-{{/* OTHER NAMES: Rainbow (official, short name), Dashie (official, short), Dash (official, sometimes) */}}
-{{/* SOURCE: (Jay Wright, StarStep, SarkinaBox, fanofetcetera, Bot-chan, Felix-0, DrZoin, supersayanmikito) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Rainbow Dash */ -}}
+{{- /* OTHER NAMES: Rainbow (official, short name), Dashie (official, short), Dash (official, sometimes) */ -}}
+{{- /* SOURCE: (Jay Wright, StarStep, SarkinaBox, fanofetcetera, Bot-chan, Felix-0, DrZoin, supersayanmikito) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                             [00m

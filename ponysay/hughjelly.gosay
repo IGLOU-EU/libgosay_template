@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E17 Hearts and Hooves Day */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Hughbert Jellius (Official, in merchandise), Hugh Jelly (unofficial) */}}
-{{/* SOURCE: (imagegrou) deviantart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E17 Hearts and Hooves Day */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Hughbert Jellius (Official, in merchandise), Hugh Jelly (unofficial) */ -}}
+{{- /* SOURCE: (imagegrou) deviantart */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                 [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Karma (Given by Author) */}}
-{{/* NAME: Dis (Given by Author) */}}
-{{/* SOURCE: (evilhom3r) Standalone image */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Karma (Given by Author) */ -}}
+{{- /* NAME: Dis (Given by Author) */ -}}
+{{- /* SOURCE: (evilhom3r) Standalone image */ -}}
 
 {{.Said}}[00m
                                  {{.Tail}}                                                                         [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E02 The Crystalling [Part 2] */}}
-{{/* NAME: Thorax */}}
-{{/* OTHER NAMES: King Thorax (official, titled), Crystal Hoof (official, nickname) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E02 The Crystalling [Part 2] */ -}}
+{{- /* NAME: Thorax */ -}}
+{{- /* OTHER NAMES: King Thorax (official, titled), Crystal Hoof (official, nickname) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                                    {{.Tail}}                 [00m

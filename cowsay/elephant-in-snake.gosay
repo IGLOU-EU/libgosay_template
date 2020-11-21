@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Do we need to explain this? */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Do we need to explain this? */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}              ....       

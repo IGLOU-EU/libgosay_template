@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Dog (Half Life 2) */}}
-{{/* # by /u/mkmcPixels - https://www.reddit.com/r/HalfLife/comments/avgaxh/collection_of_16bit_style_half_life_2_sprites/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Dog (Half Life 2) */ -}}
+{{- /* # by /u/mkmcPixels - https://www.reddit.com/r/HalfLife/comments/avgaxh/collection_of_16bit_style_half_life_2_sprites/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                 [48;5;234m  [48;5;95m  [48;5;137m  [49m  
               {{.Tail}}               [48;5;234m  [48;5;95m  [48;5;137m    [49m  

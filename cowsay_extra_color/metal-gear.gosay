@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Metal Gear (Metal Gear series) */}}
-{{/* # by Adam Grant - https://www.deviantart.com/adam-grant/art/Metal-Gear-Pixel-554334895 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Metal Gear (Metal Gear series) */ -}}
+{{- /* # by Adam Grant - https://www.deviantart.com/adam-grant/art/Metal-Gear-Pixel-554334895 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                               {{.Tail}} 
                                 {{.Tail}} 

@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Admiral Ackbar */}}
-{{/* # based on 'ack --bar' from http://beyondgrep.com/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Admiral Ackbar */ -}}
+{{- /* # based on 'ack --bar' from http://beyondgrep.com/ */ -}}
  {{.Said}}
          {{.Tail}}
           {{.Tail}}

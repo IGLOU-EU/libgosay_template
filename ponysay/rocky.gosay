@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E25 Party of one */}}
-{{/* LICENSE: cc-by-nc-sa */}}
-{{/* NAME: Rocky */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E25 Party of one */ -}}
+{{- /* LICENSE: cc-by-nc-sa */ -}}
+{{- /* NAME: Rocky */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                   [00m

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E14 Suited for Success */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: DJ Pon-3 (official, in commerical), Vın̈yl Scratch (official, in expo) */}}
-{{/* SOURCE: (Jay Wright, Darksilver) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E14 Suited for Success */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: DJ Pon-3 (official, in commerical), Vın̈yl Scratch (official, in expo) */ -}}
+{{- /* SOURCE: (Jay Wright, Darksilver) Desktop ponies */ -}}
 
 {{.Said}}[00m
                      {{.Tail}}                        [00m

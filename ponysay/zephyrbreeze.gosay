@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E11 Flutter Brutter */}}
-{{/* NAME: Zephyr Breeze */}}
-{{/* OTHER NAMES: Zephyr the Breeze (official, nickname) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E11 Flutter Brutter */ -}}
+{{- /* NAME: Zephyr Breeze */ -}}
+{{- /* OTHER NAMES: Zephyr the Breeze (official, nickname) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
        {{.Tail}}                                     [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # broken heart */}}
-{{/* # via http://pastebin.com/1AZwKrKp */}}
-{{/* # TODO: replace "thoughts" with "feelings" */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # broken heart */ -}}
+{{- /* # via http://pastebin.com/1AZwKrKp */ -}}
+{{- /* # TODO: replace "thoughts" with "feelings" */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E06 Boast Busters */}}
-{{/* NAME: Snails */}}
-{{/* SOURCE: desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E06 Boast Busters */ -}}
+{{- /* NAME: Snails */ -}}
+{{- /* SOURCE: desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                               [00m

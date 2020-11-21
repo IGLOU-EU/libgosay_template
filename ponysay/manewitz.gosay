@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E08 Rarity Takes Manehattan */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Grrace, Grace Manewitz, Janine Manewitz (Official, on merchandice) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E08 Rarity Takes Manehattan */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Grrace, Grace Manewitz, Janine Manewitz (Official, on merchandice) */ -}}
 
 {{.Said}}[00m
                                              {{.Tail}}                                         [00m

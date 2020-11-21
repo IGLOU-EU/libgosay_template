@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E03 Ticket Master */}}
-{{/* NAME: Prince Blueblood */}}
-{{/* OTHER NAMES: Blueblood (official, without title) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies, [jristz] until version 3.0.1 */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E03 Ticket Master */ -}}
+{{- /* NAME: Prince Blueblood */ -}}
+{{- /* OTHER NAMES: Blueblood (official, without title) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies, [jristz] until version 3.0.1 */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                          [00m

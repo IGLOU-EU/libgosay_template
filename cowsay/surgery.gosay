@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A cow operation, artist unknown */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A cow operation, artist unknown */ -}}
  {{.Said}}
           {{.Tail}}           \\  / 
            {{.Tail}}           \\/  

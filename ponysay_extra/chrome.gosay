@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Chroma */}}
-{{/* OTHER NAMES: Chrome (r) */}}
-{{/* SOURCE: (Bot-chan) imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-nc-sa (Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Chroma */ -}}
+{{- /* OTHER NAMES: Chrome (r) */ -}}
+{{- /* SOURCE: (Bot-chan) imageboard */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}                     [00m

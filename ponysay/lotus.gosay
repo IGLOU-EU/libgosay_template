@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E09 Bridle Gossip */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Lotus Blossom (official, on merchandice), Lotus (official, on Tradin cards) */}}
-{{/* SOURCE: (Jay wright) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E09 Bridle Gossip */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Lotus Blossom (official, on merchandice), Lotus (official, on Tradin cards) */ -}}
+{{- /* SOURCE: (Jay wright) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                   [00m

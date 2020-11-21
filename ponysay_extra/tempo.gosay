@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Prince Tempo (given by the author) */}}
-{{/* OTHER NAMES: Prince D'Amore Temporus (full name), Tempo (short name) */}}
-{{/* SOURCE: [jristz] (Based on images in MLPGenderBlend deviantart group) */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Prince Tempo (given by the author) */ -}}
+{{- /* OTHER NAMES: Prince D'Amore Temporus (full name), Tempo (short name) */ -}}
+{{- /* SOURCE: [jristz] (Based on images in MLPGenderBlend deviantart group) */ -}}
 
 {{.Said}}[00m
                             {{.Tail}}                  [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Aladdin */}}
-{{/* # sprite from Aladdin (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/aladdin/sheet/15383/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Aladdin */ -}}
+{{- /* # sprite from Aladdin (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/aladdin/sheet/15383/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               [48;5;240m    [49m              {{.Tail}} 
             [48;5;240m  [48;5;231m  [48;5;240m  [49m                {{.Tail}} 

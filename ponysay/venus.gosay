@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E26 The Cutie Re-Mark [Part 2] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Love Melody (Unofficial), Beauty Shock (unofficial), Venus (Unofficial) */}}
-{{/* SOURCE: (Bot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E26 The Cutie Re-Mark [Part 2] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Love Melody (Unofficial), Beauty Shock (unofficial), Venus (Unofficial) */ -}}
+{{- /* SOURCE: (Bot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
              {{.Tail}}                            [00m

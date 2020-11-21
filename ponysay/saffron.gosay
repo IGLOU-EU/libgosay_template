@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Safron Masala */}}
-{{/* OTHER NAMES: S06E12 Spice Up Your Life */}}
-{{/* SOURCE: (Bot-chan) Desktop pones */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Safron Masala */ -}}
+{{- /* OTHER NAMES: S06E12 Spice Up Your Life */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop pones */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                       [00m

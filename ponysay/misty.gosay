@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E13 Sonic Rainboom */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Misty Fly (official, in merchandise), Ice Wind (Official, only in Grece) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E13 Sonic Rainboom */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Misty Fly (official, in merchandise), Ice Wind (Official, only in Grece) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                              {{.Tail}}                     [00m

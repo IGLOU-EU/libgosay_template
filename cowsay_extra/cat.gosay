@@ -1,9 +1,9 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Cat */}}
-{{/* # used https://github.com/paulkaefer/flipFile.py */}}
-{{/* #  python flipFile.py cat " " */}}
-{{/* # and  */}}
-{{/* #  cat cat_flipped | sed 's/\\/\\\\/g' > cat.cow */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Cat */ -}}
+{{- /* # used https://github.com/paulkaefer/flipFile.py */ -}}
+{{- /* #  python flipFile.py cat " " */ -}}
+{{- /* # and  */ -}}
+{{- /* #  cat cat_flipped | sed 's/\\/\\\\/g' > cat.cow */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}}                       _

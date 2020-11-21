@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E26 The Best Night Ever */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Bluce Mane (unofficial), Sir Pony Moore (Unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E26 The Best Night Ever */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Bluce Mane (unofficial), Sir Pony Moore (Unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                          {{.Tail}}               [00m

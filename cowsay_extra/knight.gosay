@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Knight (Chess piece) */}}
-{{/* # from http://www.chessvariants.org/d.pieces/ascii.html */}}
-{{/* #   by David Moeser */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Knight (Chess piece) */ -}}
+{{- /* # from http://www.chessvariants.org/d.pieces/ascii.html */ -}}
+{{- /* #   by David Moeser */ -}}
  {{.Said}}
  {{.Tail}}
   {{.Tail}}

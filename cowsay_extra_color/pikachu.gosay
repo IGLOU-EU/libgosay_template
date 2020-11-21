@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Pikachu */}}
-{{/* # by Unknown - https://www.pinterest.com/pin/217087644514345343/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Pikachu */ -}}
+{{- /* # by Unknown - https://www.pinterest.com/pin/217087644514345343/ */ -}}
  {{.Said}}
       {{.Tail}}     [48;5;226m  [49m  
        {{.Tail}}    [48;5;226m    [49m  

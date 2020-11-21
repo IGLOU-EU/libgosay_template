@@ -1,14 +1,14 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is magic [Part 1] */}}
-{{/* APPEARANCE: S01E04 Applebuck Season */}}
-{{/* APPEARANCE: S01E04 Applebuck Season */}}
-{{/* NAME: Daisy */}}
-{{/* NAME: Rose */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Flower Wishes (unofficial, a toy match here) */}}
-{{/* OTHER NAMES: Roseluck (official, toy line) */}}
-{{/* OTHER NAMES: Lily Valley (official, on collector card) */}}
-{{/* SOURCE: (Bot-chan) desktop ponies deviatart group */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is magic [Part 1] */ -}}
+{{- /* APPEARANCE: S01E04 Applebuck Season */ -}}
+{{- /* APPEARANCE: S01E04 Applebuck Season */ -}}
+{{- /* NAME: Daisy */ -}}
+{{- /* NAME: Rose */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Flower Wishes (unofficial, a toy match here) */ -}}
+{{- /* OTHER NAMES: Roseluck (official, toy line) */ -}}
+{{- /* OTHER NAMES: Lily Valley (official, on collector card) */ -}}
+{{- /* SOURCE: (Bot-chan) desktop ponies deviatart group */ -}}
 
 {{.Said}}[00m
                                                        {{.Tail}}                                                                  [00m

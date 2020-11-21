@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E24 Owl's Well That Ends Well */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Davenport (official, on novels) */}}
-{{/* SOURCE: desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E24 Owl's Well That Ends Well */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Davenport (official, on novels) */ -}}
+{{- /* SOURCE: desktop ponies */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                  [00m

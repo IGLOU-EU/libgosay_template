@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # pterodactyl.cow */}}
-{{/* #   a pterodactyl with its mouth open */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # pterodactyl.cow */ -}}
+{{- /* #   a pterodactyl with its mouth open */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

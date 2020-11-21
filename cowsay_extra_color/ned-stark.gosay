@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ned Stark (Game of Thrones) */}}
-{{/* # by Cezary 'Charlie' tuczynski - http://pixeljoint.com/p/45353.htm */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ned Stark (Game of Thrones) */ -}}
+{{- /* # by Cezary 'Charlie' tuczynski - http://pixeljoint.com/p/45353.htm */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}}                   [48;2;34;32;52m  [48;2;69;40;60m    [48;2;50;60;57m    [49m  

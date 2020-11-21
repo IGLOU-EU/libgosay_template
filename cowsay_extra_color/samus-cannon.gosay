@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Samus Aran (Metroid, Super Smash Bros) */}}
-{{/* # by u/CashCatner - https://www.reddit.com/r/Terraria/comments/a98xbr/made_a_pixel_art_samus/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Samus Aran (Metroid, Super Smash Bros) */ -}}
+{{- /* # by u/CashCatner - https://www.reddit.com/r/Terraria/comments/a98xbr/made_a_pixel_art_samus/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                     {{.Tail}}                                                                                       [48;5;236m          [49m  
                                       {{.Tail}}                                                                         [48;5;236m            [48;5;221m      [48;5;187m    [48;5;234m    [49m  

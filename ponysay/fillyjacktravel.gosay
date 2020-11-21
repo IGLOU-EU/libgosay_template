@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Applejack */}}
-{{/* OTHER NAMES: AJ (official, short) */}}
-{{/* SOURCE: (SupaSpeedSrut) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Applejack */ -}}
+{{- /* OTHER NAMES: AJ (official, short) */ -}}
+{{- /* SOURCE: (SupaSpeedSrut) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                  [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shrek */}}
-{{/* # by u/bakudas - https://www.reddit.com/r/PixelArt/comments/5882bg/oc_shrek/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shrek */ -}}
+{{- /* # by u/bakudas - https://www.reddit.com/r/PixelArt/comments/5882bg/oc_shrek/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

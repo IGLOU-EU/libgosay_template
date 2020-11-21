@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Nightmare Moon */}}
-{{/* OTHER NAMES: Princess Luna (official, harmonised full name), Luna (official, harmonised), Jument Séléniaque (official, french), Lunija (official, harmonised russian), Woona (unofficial, harmonised) */}}
-{{/* SOURCE: (Asparagus) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Nightmare Moon */ -}}
+{{- /* OTHER NAMES: Princess Luna (official, harmonised full name), Luna (official, harmonised), Jument Séléniaque (official, french), Lunija (official, harmonised russian), Woona (unofficial, harmonised) */ -}}
+{{- /* SOURCE: (Asparagus) Desktop ponies */ -}}
 
 {{.Said}}[00m
                         {{.Tail}}                                                                       [00m

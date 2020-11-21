@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E07 Wonderbolts academy */}}
-{{/* NAME: (no mentioned) */}}
-{{/* OTHER NAMES: Rainbow Drop (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E07 Wonderbolts academy */ -}}
+{{- /* NAME: (no mentioned) */ -}}
+{{- /* OTHER NAMES: Rainbow Drop (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                                {{.Tail}}          [00m

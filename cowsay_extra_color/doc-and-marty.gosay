@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Doc and Marty (Back to the Future) */}}
-{{/* # by r/Sbe16 - https://www.reddit.com/r/PixelArt/comments/a6v48q/oc_the_team_is_now_complete_ready_to_hop_back_to/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Doc and Marty (Back to the Future) */ -}}
+{{- /* # by r/Sbe16 - https://www.reddit.com/r/PixelArt/comments/a6v48q/oc_the_team_is_now_complete_ready_to_hop_back_to/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                                                                                                       [48;5;255m          [49m  
             {{.Tail}}                                                                                                   [48;5;255m  [48;5;231m      [48;5;255m      [49m  

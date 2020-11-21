@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Albert Einstein */}}
-{{/* # by MalitisOfficial - https://twitter.com/malitisofficial/status/1010473068974825472 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Albert Einstein */ -}}
+{{- /* # by MalitisOfficial - https://twitter.com/malitisofficial/status/1010473068974825472 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}} 

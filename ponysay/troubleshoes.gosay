@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S05E06  Appleoosa's Most Wanted */}}
-{{/* NAME: Trouble Shoes */}}
-{{/* OTHER NAMES: Troubleshoes Clyde (Official, promotional material) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S05E06  Appleoosa's Most Wanted */ -}}
+{{- /* NAME: Trouble Shoes */ -}}
+{{- /* OTHER NAMES: Troubleshoes Clyde (Official, promotional material) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                                      {{.Tail}}              [00m

@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Charlie Brown */}}
-{{/* # by vintageretrolove_3 - https://www.webstagram.one/media/BqYFwKtAJo6 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Charlie Brown */ -}}
+{{- /* # by vintageretrolove_3 - https://www.webstagram.one/media/BqYFwKtAJo6 */ -}}
  {{.Said}}
           {{.Tail}} 
            {{.Tail}} 

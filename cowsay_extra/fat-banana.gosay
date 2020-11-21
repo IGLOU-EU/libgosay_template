@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # fatter banana */}}
-{{/* # via https://www.reddit.com/r/cowsay/comments/3bkpwv/any_love_for_bananasay/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # fatter banana */ -}}
+{{- /* # via https://www.reddit.com/r/cowsay/comments/3bkpwv/any_love_for_bananasay/ */ -}}
  {{.Said}}
            {{.Tail}}
             {{.Tail}}

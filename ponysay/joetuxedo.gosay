@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E26 The Best Night Ever */}}
-{{/* NAME: Joe */}}
-{{/* OTHER NAMES: Donut Joe (partially official) */}}
-{{/* SOURCE: [jristz], based on (Bot-chan) Dektop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E26 The Best Night Ever */ -}}
+{{- /* NAME: Joe */ -}}
+{{- /* OTHER NAMES: Donut Joe (partially official) */ -}}
+{{- /* SOURCE: [jristz], based on (Bot-chan) Dektop ponies */ -}}
 
 {{.Said}}[00m
        {{.Tail}}                               [00m

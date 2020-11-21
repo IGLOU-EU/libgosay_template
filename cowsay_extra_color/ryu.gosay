@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Ryu (Street Fighter) */}}
-{{/* # sprite from Street Fighter II (Sega Genesis) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Ryu (Street Fighter) */ -}}
+{{- /* # sprite from Street Fighter II (Sega Genesis) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}}                     [48;5;234m      [49m  

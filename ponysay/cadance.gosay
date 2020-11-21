@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E25 A Canterlot Wedding [Part 1] */}}
-{{/* NAME: Cadance */}}
-{{/* OTHER NAMES: Princess Cadance (official, titled), Mi Amore Cadenza (official, full name without title), Princess Mi Amore Cadenza (official, full name) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E25 A Canterlot Wedding [Part 1] */ -}}
+{{- /* NAME: Cadance */ -}}
+{{- /* OTHER NAMES: Princess Cadance (official, titled), Mi Amore Cadenza (official, full name without title), Princess Mi Amore Cadenza (official, full name) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                               {{.Tail}}                        [00m

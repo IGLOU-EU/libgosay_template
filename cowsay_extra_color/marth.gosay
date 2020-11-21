@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Marth (Fire Emblem) */}}
-{{/* # by Hot31 - https://www.kisspng.com/png-marth-fire-emblem-path-of-radiance-pixel-art-pixel-5380456/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Marth (Fire Emblem) */ -}}
+{{- /* # by Hot31 - https://www.kisspng.com/png-marth-fire-emblem-path-of-radiance-pixel-art-pixel-5380456/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                       {{.Tail}}                 [48;5;60m  [48;5;179m        [48;5;60m  [49m  
                                         {{.Tail}}             [48;5;60m  [48;5;179m  [48;5;60m        [48;5;179m  [48;5;60m  [49m  

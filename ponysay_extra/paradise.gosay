@@ -1,10 +1,10 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Paradise */}}
-{{/* NAME: Celestia */}}
-{{/* NAME: Luna */}}
-{{/* OTHER NAMES: Princess Celestia (official, full name) */}}
-{{/* OTHER NAMES: Princess Luna (official, full name), Lunija (official, russian), Nightmare Moon (official, corrupted), Woona (unofficial) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Paradise */ -}}
+{{- /* NAME: Celestia */ -}}
+{{- /* NAME: Luna */ -}}
+{{- /* OTHER NAMES: Princess Celestia (official, full name) */ -}}
+{{- /* OTHER NAMES: Princess Luna (official, full name), Lunija (official, russian), Nightmare Moon (official, corrupted), Woona (unofficial) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                                   [00m

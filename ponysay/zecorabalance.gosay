@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E09 - Bridle Gossip */}}
-{{/* NAME: Zecora */}}
-{{/* SOURCE: (Sidekick ponyguy, RJP!) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E09 - Bridle Gossip */ -}}
+{{- /* NAME: Zecora */ -}}
+{{- /* SOURCE: (Sidekick ponyguy, RJP!) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                    [00m

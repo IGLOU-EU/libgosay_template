@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic part 1 */}}
-{{/* NAME: Time Turner (official on the Traing cards) */}}
-{{/* OTHER NAMES: Dr Hooves (official according to Welovefine), Doctor Hooves (long name) */}}
-{{/* SOURCE: Tumblr NSFW */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic part 1 */ -}}
+{{- /* NAME: Time Turner (official on the Traing cards) */ -}}
+{{- /* OTHER NAMES: Dr Hooves (official according to Welovefine), Doctor Hooves (long name) */ -}}
+{{- /* SOURCE: Tumblr NSFW */ -}}
 
 {{.Said}}[00m
                     {{.Tail}}                  [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Statue of Liberty */}}
-{{/* # by Unknown - https://www.pinterest.com/pin/166844361179487967/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Statue of Liberty */ -}}
+{{- /* # by Unknown - https://www.pinterest.com/pin/166844361179487967/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                  {{.Tail}} 
         [48;5;222m  [49m        {{.Tail}} 

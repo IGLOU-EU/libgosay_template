@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Go stick yer head in a cow. */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Go stick yer head in a cow. */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

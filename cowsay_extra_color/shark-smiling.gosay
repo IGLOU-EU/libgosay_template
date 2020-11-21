@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Smiling shark */}}
-{{/* # by Saphatthachat Sunchoote - https://www.123rf.com/photo_115872127_stock-vector-vector-pixel-art-shark-smile-isolated-cartoon.html */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Smiling shark */ -}}
+{{- /* # by Saphatthachat Sunchoote - https://www.123rf.com/photo_115872127_stock-vector-vector-pixel-art-shark-smile-isolated-cartoon.html */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                                       [48;5;235m    [49m  
             {{.Tail}}                                   [48;5;235m  [48;5;67m  [48;5;235m  [49m  

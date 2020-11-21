@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A meowing tiger? */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A meowing tiger? */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}} ,   _ ___.--'''`--''//-,-_--_.

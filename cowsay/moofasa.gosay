@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* MOOfasa. */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* MOOfasa. */ -}}
  {{.Said}}
        {{.Tail}}    ____
         {{.Tail}}  /    \\

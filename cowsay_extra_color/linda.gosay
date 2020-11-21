@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Linda Belcher (Bob's Burgers) */}}
-{{/* # by Unknown - http://rebloggy.com/post/gif-pixel-art-bobs-burgers-linda-belcher/128624408541 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Linda Belcher (Bob's Burgers) */ -}}
+{{- /* # by Unknown - http://rebloggy.com/post/gif-pixel-art-bobs-burgers-linda-belcher/128624408541 */ -}}
  {{.Said}}
       {{.Tail}} 
        {{.Tail}}      [48;5;236m              [49m  

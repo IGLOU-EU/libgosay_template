@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Spy (Team Fortress 2) */}}
-{{/* # by UltraBananaBuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Pixel-Spy-350069023 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Spy (Team Fortress 2) */ -}}
+{{- /* # by UltraBananaBuddy - https://www.deviantart.com/ultrabananabuddy/art/TF2-Pixel-Spy-350069023 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                           [48;5;66m  [49m             {{.Tail}}        [48;5;233m              [49m  
                           [48;5;66m      [49m           {{.Tail}}    [48;5;233m  [48;5;24m              [48;5;233m  [49m  

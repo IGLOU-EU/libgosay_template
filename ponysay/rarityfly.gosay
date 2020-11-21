@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Rarity */}}
-{{/* SOURCE: (Jay wright, StarStep, Bot-chan, The Coop, Miriam the Bat, Kloopp) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Rarity */ -}}
+{{- /* SOURCE: (Jay wright, StarStep, Bot-chan, The Coop, Miriam the Bat, Kloopp) Desktop ponies */ -}}
 
 {{.Said}}[00m
     {{.Tail}}                                                     [00m

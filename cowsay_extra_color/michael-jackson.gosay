@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Michael Jackson */}}
-{{/* # by gamemakerstuff - https://gamemakerstuff.files.wordpress.com/2014/06/michael-jackson-pixel-art.gif */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Michael Jackson */ -}}
+{{- /* # by gamemakerstuff - https://gamemakerstuff.files.wordpress.com/2014/06/michael-jackson-pixel-art.gif */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                 {{.Tail}}                           [48;5;245m    [49m  
                                   {{.Tail}}               [48;5;255m  [48;5;245m  [49m    [48;5;144m  [48;5;255m  [48;5;187m  [48;5;245m    [49m  

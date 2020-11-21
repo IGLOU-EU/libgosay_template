@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: Comic issue 5 */}}
-{{/* NAME: Maybelle */}}
-{{/* OTHER NAMES: Mabel (😊 ) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: Comic issue 5 */ -}}
+{{- /* NAME: Maybelle */ -}}
+{{- /* OTHER NAMES: Mabel (😊 ) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                       {{.Tail}}                           [00m

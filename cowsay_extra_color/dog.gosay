@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Snowball (Rick and Morty) */}}
-{{/* # by FlamethrowerMan09 - https://www.deviantart.com/flamethrowerman09/art/Rick-and-Morty-Snuffles-Snowball-695157267 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Snowball (Rick and Morty) */ -}}
+{{- /* # by FlamethrowerMan09 - https://www.deviantart.com/flamethrowerman09/art/Rick-and-Morty-Snuffles-Snowball-695157267 */ -}}
  {{.Said}}
       {{.Tail}} 
        {{.Tail}}    [48;5;235m  [48;5;14m    [48;5;235m  [49m  

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E10 A Friend in Deed */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Deep Blue (unofficial) */}}
-{{/* SOURCE: [jristz], based on Destop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E10 A Friend in Deed */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Deep Blue (unofficial) */ -}}
+{{- /* SOURCE: [jristz], based on Destop ponies */ -}}
 
 {{.Said}}[00m
                            {{.Tail}}                         [00m

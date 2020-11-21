@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E01 The Crystal Empire [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Bill Neigh (official, without tittle), Professor (on credits), Professor Bill Neigh (official, on Traidin cards) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E01 The Crystal Empire [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Bill Neigh (official, without tittle), Professor (on credits), Professor Bill Neigh (official, on Traidin cards) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                    [00m

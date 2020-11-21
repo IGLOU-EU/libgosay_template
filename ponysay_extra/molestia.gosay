@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Princess Molestia (Named given by the author) */}}
-{{/* OTHER NAMES: Molestia (short name), Molly (given by the author on comments) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Princess Molestia (Named given by the author) */ -}}
+{{- /* OTHER NAMES: Molestia (short name), Molly (given by the author on comments) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
                                                  {{.Tail}}                                             [00m

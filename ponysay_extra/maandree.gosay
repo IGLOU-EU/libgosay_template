@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: GNU All Permissive License */}}
-{{/* NAME: maandree */}}
-{{/* OTHER NAMES: Mattias Andrée */}}
-{{/* SOURCE: http://github.com/maandree/art/pony/maandree */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: GNU All Permissive License */ -}}
+{{- /* NAME: maandree */ -}}
+{{- /* OTHER NAMES: Mattias Andrée */ -}}
+{{- /* SOURCE: http://github.com/maandree/art/pony/maandree */ -}}
 
 Copying and distribution of this file, with or without modification,
 are permitted in any medium without royalty provided the copyright

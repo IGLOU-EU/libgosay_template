@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Twilight Sparkle */}}
-{{/* OTHER NAMES: Twibrain, Twirebro, Twilight in a jar (not really is a jar), Brainy Twilight */}}
-{{/* SOURCE: [Jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Twilight Sparkle */ -}}
+{{- /* OTHER NAMES: Twibrain, Twirebro, Twilight in a jar (not really is a jar), Brainy Twilight */ -}}
+{{- /* SOURCE: [Jristz] */ -}}
 
 {{.Said}}[00m
                {{.Tail}}                   [00m

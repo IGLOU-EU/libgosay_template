@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # GLaDOS Potato (Portal 2) */}}
-{{/* # by Unknown - https://discourse.stonehearth.net/t/spoolicus-adventures-in-pixelmancing-or-seriously-what-does-it-take-to-get-an-update-around-here/6220/30 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # GLaDOS Potato (Portal 2) */ -}}
+{{- /* # by Unknown - https://discourse.stonehearth.net/t/spoolicus-adventures-in-pixelmancing-or-seriously-what-does-it-take-to-get-an-update-around-here/6220/30 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}}                                                                             [48;5;235m    [49m  
                   {{.Tail}}                                                       [48;5;235m  [49m                    [48;5;235m    [49m  

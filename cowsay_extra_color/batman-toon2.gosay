@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Batman */}}
-{{/* # by BLZofOZZ - https://www.deviantart.com/blzofozz/art/Batman-Sprites-344827631 */}}
-{{/* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Batman */ -}}
+{{- /* # by BLZofOZZ - https://www.deviantart.com/blzofozz/art/Batman-Sprites-344827631 */ -}}
+{{- /* # Generated with Charc0al's cowsay file creator http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                   [48;5;233m  [49m                [48;5;233m  [49m  
               {{.Tail}}               [48;5;233m    [49m              [48;5;233m    [49m  

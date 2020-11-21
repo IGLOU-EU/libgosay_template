@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E19 A Dog and Pony Show */}}
-{{/* NAME: Sapphire Shores */}}
-{{/* SOURCE: (Pony noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E19 A Dog and Pony Show */ -}}
+{{- /* NAME: Sapphire Shores */ -}}
+{{- /* SOURCE: (Pony noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
               {{.Tail}}                             [00m

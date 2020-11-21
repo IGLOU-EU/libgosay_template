@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Raptor Jesus */}}
-{{/* # by Charc0al (original art) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Raptor Jesus */ -}}
+{{- /* # by Charc0al (original art) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                   {{.Tail}}                             [48;2;49;39;30m  [48;2;112;97;86m  [48;2;145;126;111m  [48;2;112;97;86m  [48;2;81;72;67m  [48;2;61;52;42m  [48;2;112;97;86m  [48;2;145;126;111m    [48;2;81;72;67m  [49m  
                     {{.Tail}}                       [48;2;61;52;42m  [48;2;78;68;53m  [48;2;145;126;111m  [48;2;175;164;151m  [48;2;112;97;86m      [48;2;81;72;67m  [48;2;145;126;111m  [48;2;175;164;151m    [48;2;145;126;111m  [48;2;81;72;67m  [49m  

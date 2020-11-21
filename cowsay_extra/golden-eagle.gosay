@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Golden Eagle (Marquette University mascot) */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Golden Eagle (Marquette University mascot) */ -}}
  {{.Said}}
     {{.Tail}}                                       ,:=+++++???++?+=+=
      {{.Tail}}                               :+?????\$MUUUUUUUUUMO+??~

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */}}
-{{/* NAME: Archey */}}
-{{/* OTHER NAMES: Archy, Arch Linux Pony */}}
-{{/* SOURCE: [Jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa (Creative Commons Attribution-ShareAlike 3.0 Unported) */ -}}
+{{- /* NAME: Archey */ -}}
+{{- /* OTHER NAMES: Archy, Arch Linux Pony */ -}}
+{{- /* SOURCE: [Jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                           [00m

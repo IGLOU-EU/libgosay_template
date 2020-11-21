@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E03 Lesson Zero */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Princess Erroria (unofficial), Pluto (unifficial), Alula (unofficial) */}}
-{{/* SOURCE: (DrSKlee) Desktop ponies OC */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E03 Lesson Zero */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Princess Erroria (unofficial), Pluto (unifficial), Alula (unofficial) */ -}}
+{{- /* SOURCE: (DrSKlee) Desktop ponies OC */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                               [00m

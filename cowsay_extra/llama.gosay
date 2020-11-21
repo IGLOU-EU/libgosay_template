@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* Nodrama-Llama */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* Nodrama-Llama */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}}

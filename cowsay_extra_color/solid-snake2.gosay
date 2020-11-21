@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Solid Snake (Metal Gear Solid) */}}
-{{/* # by Unknown - https://66.media.tumblr.com/c27bc23d326a693af79c452bef52eac3/tumblr_nef650fjLB1s5mfvio1_500.gif */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Solid Snake (Metal Gear Solid) */ -}}
+{{- /* # by Unknown - https://66.media.tumblr.com/c27bc23d326a693af79c452bef52eac3/tumblr_nef650fjLB1s5mfvio1_500.gif */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                         {{.Tail}} 
                           {{.Tail}} 

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Obo-Wan Kenobi (Star Wars) - cropped */}}
-{{/* # by Z-studios - https://www.deviantart.com/z-studios/art/Obi-Wan-Death-733880511 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Obo-Wan Kenobi (Star Wars) - cropped */ -}}
+{{- /* # by Z-studios - https://www.deviantart.com/z-studios/art/Obi-Wan-Death-733880511 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       [48;5;67m      [49m          {{.Tail}} 
     [48;5;60m  [48;5;104m  [48;5;231m  [48;5;104m  [48;5;67m  [49m         {{.Tail}} 

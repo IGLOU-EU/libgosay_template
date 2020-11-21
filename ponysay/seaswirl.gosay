@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Sea Swirl */}}
-{{/* OTHER NAMES: SeaFoam (unofficial), Dolphin Dream (unofficial) */}}
-{{/* SOURCE: (Jay Wright, Whimsy Morning) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Sea Swirl */ -}}
+{{- /* OTHER NAMES: SeaFoam (unofficial), Dolphin Dream (unofficial) */ -}}
+{{- /* SOURCE: (Jay Wright, Whimsy Morning) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                              [00m

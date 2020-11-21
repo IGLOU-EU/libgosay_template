@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # ROFLCOPTER */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # ROFLCOPTER */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}

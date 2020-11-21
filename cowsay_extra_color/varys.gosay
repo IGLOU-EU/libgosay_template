@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Lord Verys (Game of Thrones) - cropped, true color */}}
-{{/* # by Cezary 'Charlie' tuczynski - http://pixeljoint.com/p/45353.htm */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Lord Verys (Game of Thrones) - cropped, true color */ -}}
+{{- /* # by Cezary 'Charlie' tuczynski - http://pixeljoint.com/p/45353.htm */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}}             [48;2;254;254;254m  [48;2;238;195;154m    [48;2;217;160;102m  [49m  

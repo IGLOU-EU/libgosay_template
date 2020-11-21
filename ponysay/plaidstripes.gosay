@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E09 The Saddle Row Review */}}
-{{/* NAME: PLaid Stripes */}}
-{{/* SOURCE: (Bot chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E09 The Saddle Row Review */ -}}
+{{- /* NAME: PLaid Stripes */ -}}
+{{- /* SOURCE: (Bot chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                   {{.Tail}}                  [00m

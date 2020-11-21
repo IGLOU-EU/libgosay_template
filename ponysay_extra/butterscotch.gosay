@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: CC0 */}}
-{{/* NAME: Butterscotch (on the first fanart) */}}
-{{/* SOURCE: desktop ponies OC */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: CC0 */ -}}
+{{- /* NAME: Butterscotch (on the first fanart) */ -}}
+{{- /* SOURCE: desktop ponies OC */ -}}
 
 {{.Said}}[00m
                        {{.Tail}}               [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E16 Sonic Rainboom */}}
-{{/* NAME: Spitfire */}}
-{{/* SOURCE: (Rainbowdutch, Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E16 Sonic Rainboom */ -}}
+{{- /* NAME: Spitfire */ -}}
+{{- /* SOURCE: (Rainbowdutch, Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                                 {{.Tail}}                    [00m

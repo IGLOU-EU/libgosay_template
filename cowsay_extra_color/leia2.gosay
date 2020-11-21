@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Princess Leia (Star Wars) */}}
-{{/* # by Gustavo Viselner - https://dribbble.com/shots/3183476-Carrie-Fisher */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Princess Leia (Star Wars) */ -}}
+{{- /* # by Gustavo Viselner - https://dribbble.com/shots/3183476-Carrie-Fisher */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                       {{.Tail}} 
     [48;2;134;133;131m  [48;2;94;83;84m    [49m              {{.Tail}} 

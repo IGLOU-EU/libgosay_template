@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Captain Phasma (Star Wars) - cropped */}}
-{{/* # by ClosingDownSummer - https://imgur.com/gallery/hXN7v */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Captain Phasma (Star Wars) - cropped */ -}}
+{{- /* # by ClosingDownSummer - https://imgur.com/gallery/hXN7v */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                         {{.Tail}}                           [48;5;233m              [49m  
                           {{.Tail}}                       [48;5;233m  [48;5;188m  [48;5;247m  [48;5;188m      [48;5;247m  [48;5;244m  [48;5;233m  [49m  

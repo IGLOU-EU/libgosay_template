@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Frienship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Quickfix (unofficial), Epona (unofficial), Clockwork (unofficial), Silver Spanner (official on Trading card) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Frienship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Quickfix (unofficial), Epona (unofficial), Clockwork (unofficial), Silver Spanner (official on Trading card) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
 {{.Tail}}                                             [00m

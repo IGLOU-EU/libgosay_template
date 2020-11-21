@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # R2D2 and C3PO (Star Wars) */}}
-{{/* # by Gustavo Viselner - https://dribbble.com/shots/2124684-R2d2-and-C3p0 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # R2D2 and C3PO (Star Wars) */ -}}
+{{- /* # by Gustavo Viselner - https://dribbble.com/shots/2124684-R2d2-and-C3p0 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}             [48;5;94m    [48;5;179m      [49m  
               {{.Tail}}         [48;5;94m    [48;5;179m    [48;5;222m    [48;5;179m  [49m  

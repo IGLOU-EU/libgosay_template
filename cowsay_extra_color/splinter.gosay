@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Master Splinter (Teenage Mutant Ninja Turtles) */}}
-{{/* # sprite from TMNT (Game Boy Advance) - https://www.spriters-resource.com/game_boy_advance/teenagemutantninjaturtlesubisoft/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Master Splinter (Teenage Mutant Ninja Turtles) */ -}}
+{{- /* # sprite from TMNT (Game Boy Advance) - https://www.spriters-resource.com/game_boy_advance/teenagemutantninjaturtlesubisoft/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                               {{.Tail}} 
                                 {{.Tail}} 

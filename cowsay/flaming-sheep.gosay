@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* The flaming sheep, contributed by Geordan Rosario (geordan@csua.berkeley.edu) */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* The flaming sheep, contributed by Geordan Rosario (geordan@csua.berkeley.edu) */ -}}
  {{.Said}}
   {{.Tail}}            .    .     .   
    {{.Tail}}      .  . .     `  ,     

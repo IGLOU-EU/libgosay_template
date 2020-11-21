@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Turkey! */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Turkey! */ -}}
  {{.Said}}
   {{.Tail}}                                  ,+*^^*+___+++_
    {{.Tail}}                           ,*^^^^              )

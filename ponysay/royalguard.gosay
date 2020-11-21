@@ -1,6 +1,6 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* SOURCE: (StarStep) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* SOURCE: (StarStep) Desktop ponies */ -}}
 
 {{.Said}}[00m
                        {{.Tail}}                    [00m

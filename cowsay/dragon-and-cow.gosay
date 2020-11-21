@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* A dragon smiting a cow, possible credit to kube@csua.berkeley.edu */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* A dragon smiting a cow, possible credit to kube@csua.berkeley.edu */ -}}
  {{.Said}}
                        {{.Tail}}                    ^    /^
                         {{.Tail}}                  / \\  // \\

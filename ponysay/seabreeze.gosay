@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E16 It Ain't Easy Being Breezies */}}
-{{/* NAME: Seabreeze */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E16 It Ain't Easy Being Breezies */ -}}
+{{- /* NAME: Seabreeze */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
                                 {{.Tail}}          [00m

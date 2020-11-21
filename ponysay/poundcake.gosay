@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E13 Baby Cakes */}}
-{{/* NAME: Pound Cake */}}
-{{/* SOURCE: (drsklee) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E13 Baby Cakes */ -}}
+{{- /* NAME: Pound Cake */ -}}
+{{- /* SOURCE: (drsklee) Desktop ponies */ -}}
 
 {{.Said}}[00m
              {{.Tail}}                        [00m

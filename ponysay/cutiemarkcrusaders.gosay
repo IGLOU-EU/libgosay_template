@@ -1,14 +1,14 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Sweetie Belle */}}
-{{/* NAME: Scootaloo */}}
-{{/* NAME: Apple Bloom */}}
-{{/* OTHER NAMES: (none) */}}
-{{/* OTHER NAMES: (none) */}}
-{{/* OTHER NAMES: (none) */}}
-{{/* SOURCE: desktop ponies deviantart group */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Sweetie Belle */ -}}
+{{- /* NAME: Scootaloo */ -}}
+{{- /* NAME: Apple Bloom */ -}}
+{{- /* OTHER NAMES: (none) */ -}}
+{{- /* OTHER NAMES: (none) */ -}}
+{{- /* OTHER NAMES: (none) */ -}}
+{{- /* SOURCE: desktop ponies deviantart group */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                        {{.Tail}}                                                {{.Tail}}                                 [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Gandalf (Lord of the Rings) */}}
-{{/* # by u/C-Squaredd - https://www.reddit.com/r/lotr/comments/98wfm2/i_made_some_gandalf_pixel_art/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Gandalf (Lord of the Rings) */ -}}
+{{- /* # by u/C-Squaredd - https://www.reddit.com/r/lotr/comments/98wfm2/i_made_some_gandalf_pixel_art/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
             {{.Tail}}                                                     [48;5;7m                              [49m  
               {{.Tail}}                                             [48;5;252m      [48;5;7m  [48;5;254m            [48;5;7m                [48;5;252m    [49m  

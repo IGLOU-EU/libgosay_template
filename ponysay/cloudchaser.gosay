@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E22 Hurricane Fluttershy */}}
-{{/* NAME: Cloudchaser */}}
-{{/* OTHER NAMES: Stormwalker (Official, On Book) */}}
-{{/* SOURCE: (fanofetcetera) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E22 Hurricane Fluttershy */ -}}
+{{- /* NAME: Cloudchaser */ -}}
+{{- /* OTHER NAMES: Stormwalker (Official, On Book) */ -}}
+{{- /* SOURCE: (fanofetcetera) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}                                              [00m

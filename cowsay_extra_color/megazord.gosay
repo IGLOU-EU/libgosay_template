@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Megazord (Power Rangers) */}}
-{{/* # by Tú Bùi - https://dribbble.com/shots/2560662-Mighty-Morphin-Power-Rangers */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Megazord (Power Rangers) */ -}}
+{{- /* # by Tú Bùi - https://dribbble.com/shots/2560662-Mighty-Morphin-Power-Rangers */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                       {{.Tail}} 
             [48;5;188m  [49m          {{.Tail}} 

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Grinch */}}
-{{/* # by Unknown - https://www.pinterest.com/pin/69313281745667293/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Grinch */ -}}
+{{- /* # by Unknown - https://www.pinterest.com/pin/69313281745667293/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       {{.Tail}} 
         {{.Tail}}                                 [48;5;236m        [49m  

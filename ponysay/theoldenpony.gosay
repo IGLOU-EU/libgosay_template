@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E06 Sleepless in Ponyville */}}
-{{/* NAME: The Olden Pony */}}
-{{/* OTHER NAMES: Olden Pony (official, Without The) */}}
-{{/* SOURCE: (the beanseh report) Ponibooru.org */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E06 Sleepless in Ponyville */ -}}
+{{- /* NAME: The Olden Pony */ -}}
+{{- /* OTHER NAMES: Olden Pony (official, Without The) */ -}}
+{{- /* SOURCE: (the beanseh report) Ponibooru.org */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                                                     [00m

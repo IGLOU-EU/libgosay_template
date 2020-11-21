@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Floating Head (Rick & Morty) */}}
-{{/* # by unknown 4channer */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Floating Head (Rick & Morty) */ -}}
+{{- /* # by unknown 4channer */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

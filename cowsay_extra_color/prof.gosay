@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # The Professor (Futurama) */}}
-{{/* # from s06e26 of Futurama - https://www.youtube.com/watch?v=H4V6SsRZ2dA */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # The Professor (Futurama) */ -}}
+{{- /* # from s06e26 of Futurama - https://www.youtube.com/watch?v=H4V6SsRZ2dA */ -}}
  {{.Said}}
      {{.Tail}} 
       {{.Tail}}             [48;5;223m        [49m  

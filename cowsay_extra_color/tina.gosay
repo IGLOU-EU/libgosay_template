@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Tina Belcher (Bob's Burgers) */}}
-{{/* # by Unknown - https://giphy.com/gifs/pixel-art-tina-belcher-PTzqCfLCd2wtW */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Tina Belcher (Bob's Burgers) */ -}}
+{{- /* # by Unknown - https://giphy.com/gifs/pixel-art-tina-belcher-PTzqCfLCd2wtW */ -}}
  {{.Said}}
      {{.Tail}} 
       {{.Tail}}     [48;5;236m            [49m  

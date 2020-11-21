@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Tux the Penguin (large version) */}}
-{{/* #  seen when connected to irc.uslug.org */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Tux the Penguin (large version) */ -}}
+{{- /* #  seen when connected to irc.uslug.org */ -}}
  {{.Said}}
        {{.Tail}}
         {{.Tail}}          .88888888:.

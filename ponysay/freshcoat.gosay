@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S06E12 Spice Up Your Life */}}
-{{/* NAME: (not mentiones) */}}
-{{/* OTHER NAMES: Fresh coat (unnofficial) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S06E12 Spice Up Your Life */ -}}
+{{- /* NAME: (not mentiones) */ -}}
+{{- /* OTHER NAMES: Fresh coat (unnofficial) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                              [00m

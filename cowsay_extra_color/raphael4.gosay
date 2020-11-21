@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Raphael (Teenage Mutant Ninja Turtles) */}}
-{{/* # by Kristopher Hogue - http://hougesandwich.blogspot.com/2012/02/pixel-raphael.html */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Raphael (Teenage Mutant Ninja Turtles) */ -}}
+{{- /* # by Kristopher Hogue - http://hougesandwich.blogspot.com/2012/02/pixel-raphael.html */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                     {{.Tail}}               [48;5;232m        [49m  
                       {{.Tail}}             [48;5;232m  [48;5;160m    [48;5;232m    [49m  

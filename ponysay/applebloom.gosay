@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Apple Bloom */}}
-{{/* SOURCE: (The Coop, Pony Noia) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Apple Bloom */ -}}
+{{- /* SOURCE: (The Coop, Pony Noia) Desktop ponies */ -}}
 
 {{.Said}}[00m
    {{.Tail}}          [38;5;125m▄[48;5;125;38;5;162m▄▄[49;38;5;125m▄[39m                       [00m

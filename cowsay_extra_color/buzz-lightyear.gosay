@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Buzz Lightyear (Toy Story) */}}
-{{/* # by Mr5ombra - https://www.reddit.com/r/PixelArt/comments/5tltzn/oc_buzz_lightyear/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Buzz Lightyear (Toy Story) */ -}}
+{{- /* # by Mr5ombra - https://www.reddit.com/r/PixelArt/comments/5tltzn/oc_buzz_lightyear/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                 {{.Tail}}                                         [48;5;231m                  [49m  
                                   {{.Tail}}                                   [48;5;231m    [49m                  [48;5;231m    [49m  

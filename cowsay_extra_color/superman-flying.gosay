@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Superman */}}
-{{/* # by Charc0al (original art) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Superman */ -}}
+{{- /* # by Charc0al (original art) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 [48;5;216m  [48;5;223m    [48;5;216m  [48;5;223m  [48;5;216m  [48;5;215m  [49m            {{.Tail}}                                                                                           [48;5;216m  [48;5;223m    [48;5;216m      [48;5;173m    [48;5;216m  [49m  
             [48;5;223m          [48;5;216m  [48;5;223m      [48;5;215m  [49m            {{.Tail}}                                                                                       [48;5;216m  [48;5;173m  [48;5;223m      [48;5;216m  [48;5;223m  [48;5;216m  [48;5;173m  [48;5;216m  [48;5;173m  [49m  

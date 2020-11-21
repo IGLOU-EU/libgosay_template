@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: Pinkie Pie */}}
-{{/* OTHER NAMES: Pinkie (official, short name), Pinkamina Diane Pie (official, full name) */}}
-{{/* SOURCE: (Jay Wright, DeathPony/deadpwny, sidekick ponyguy, StarStep) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: Pinkie Pie */ -}}
+{{- /* OTHER NAMES: Pinkie (official, short name), Pinkamina Diane Pie (official, full name) */ -}}
+{{- /* SOURCE: (Jay Wright, DeathPony/deadpwny, sidekick ponyguy, StarStep) Desktop ponies */ -}}
 
 {{.Said}}[00m
                 {{.Tail}}                                                        [00m

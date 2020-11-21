@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Venom (Spider-Man) */}}
-{{/* # by Acclaim Entertainment (art from Spider-Man and Venom: Maximum Carnage) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Venom (Spider-Man) */ -}}
+{{- /* # by Acclaim Entertainment (art from Spider-Man and Venom: Maximum Carnage) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                             {{.Tail}} 
                               {{.Tail}} 

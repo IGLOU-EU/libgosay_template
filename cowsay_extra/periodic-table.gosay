@@ -1,4 +1,4 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
 
  {{.Said}}
 {{.Tail}}

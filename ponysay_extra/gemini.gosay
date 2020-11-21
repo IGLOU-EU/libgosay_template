@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Pollux */}}
-{{/* NAME: Castor */}}
-{{/* SOURCE: (Bot-chan) OC ponies */}}
-{{/* SOURCE: (Bot-chan) OC ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Pollux */ -}}
+{{- /* NAME: Castor */ -}}
+{{- /* SOURCE: (Bot-chan) OC ponies */ -}}
+{{- /* SOURCE: (Bot-chan) OC ponies */ -}}
 
 {{.Said}}[00m
                                      {{.Tail}}                                                                  [00m

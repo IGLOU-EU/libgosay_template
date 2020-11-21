@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E01 The Crystal Empire [Part 1] */}}
-{{/* NAME: King Sombra */}}
-{{/* OTHER NAMES: King Somber (initial leaked name), King Sombrero (as a joke thing) */}}
-{{/* SOURCE: [jristz], based on Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E01 The Crystal Empire [Part 1] */ -}}
+{{- /* NAME: King Sombra */ -}}
+{{- /* OTHER NAMES: King Somber (initial leaked name), King Sombrero (as a joke thing) */ -}}
+{{- /* SOURCE: [jristz], based on Desktop ponies */ -}}
 
 {{.Said}}[00m
  {{.Tail}}                                           [00m

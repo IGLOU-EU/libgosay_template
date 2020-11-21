@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* It's a Kosh Cow! */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* It's a Kosh Cow! */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

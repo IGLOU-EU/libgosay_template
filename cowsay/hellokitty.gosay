@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Hello Kitty */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Hello Kitty */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}}

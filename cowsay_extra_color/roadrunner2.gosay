@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Roadrunner (Warner Bros) */}}
-{{/* # by Charc0al, original artist unknown - https://www.pinterest.com/alibles/perler-bead-warner-brothers-pixel-art-graphs/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Roadrunner (Warner Bros) */ -}}
+{{- /* # by Charc0al, original artist unknown - https://www.pinterest.com/alibles/perler-bead-warner-brothers-pixel-art-graphs/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                           {{.Tail}} 
               [48;5;235m    [49m          {{.Tail}} 

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E12 Family Appreciation Day */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Truffle Shuffle (official, on Gameloft game source code), Truffle (official, on Gameloft game source code) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E12 Family Appreciation Day */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Truffle Shuffle (official, on Gameloft game source code), Truffle (official, on Gameloft game source code) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                {{.Tail}}                [00m

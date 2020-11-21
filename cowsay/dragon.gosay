@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* The Whitespace Dragon */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* The Whitespace Dragon */ -}}
  {{.Said}}
       {{.Tail}}                    / \\  //\\
        {{.Tail}}    |\\___/|      /   \\//  \\\\

@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: cc-by-sa */}}
-{{/* NAME: Lyra Heartstrings (official, in merchandise) */}}
-{{/* OTHER NAMES: Lyra (unoficial), Heartstrings (previous official), Sealyra (this one), Harpass */}}
-{{/* SOURCE: imageboard */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: cc-by-sa */ -}}
+{{- /* NAME: Lyra Heartstrings (official, in merchandise) */ -}}
+{{- /* OTHER NAMES: Lyra (unoficial), Heartstrings (previous official), Sealyra (this one), Harpass */ -}}
+{{- /* SOURCE: imageboard */ -}}
 
 {{.Said}}[00m
       {{.Tail}}                      [00m

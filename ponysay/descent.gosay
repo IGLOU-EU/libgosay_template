@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E02 Friendship is Magic [Part 2] */}}
-{{/* NAME: Descent */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E02 Friendship is Magic [Part 2] */ -}}
+{{- /* NAME: Descent */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                             {{.Tail}}                 [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Shredder (Teenage Mutant Ninja Turtles) */}}
-{{/* # by BLZofOZZ - https://www.deviantart.com/blzofozz/art/Shredders-261283235 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Shredder (Teenage Mutant Ninja Turtles) */ -}}
+{{- /* # by BLZofOZZ - https://www.deviantart.com/blzofozz/art/Shredders-261283235 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                     {{.Tail}} 
                                       {{.Tail}} 

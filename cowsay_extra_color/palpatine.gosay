@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Emperor Palpatine (Star Wars) - cropped */}}
-{{/* # by Gustavo Vilsener - https://dribbble.com/shots/2434401-Star-Wars-Episode-VI-Return-of-the-Jedi */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Emperor Palpatine (Star Wars) - cropped */ -}}
+{{- /* # by Gustavo Vilsener - https://dribbble.com/shots/2434401-Star-Wars-Episode-VI-Return-of-the-Jedi */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                 {{.Tail}} 
                   {{.Tail}}                 [48;5;95m  [48;5;236m          [48;5;16m                  [48;5;96m      [48;5;53m    [48;5;16m                [48;5;236m          [48;5;68m  [49m  

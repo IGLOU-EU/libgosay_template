@@ -1,6 +1,6 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: Libra */}}
-{{/* SOURCE: (Bot-chan) OC ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: Libra */ -}}
+{{- /* SOURCE: (Bot-chan) OC ponies */ -}}
 
 {{.Said}}[00m
                                 {{.Tail}}                    [00m

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Hammerhead */}}
-{{/* # by KidsPictureShow - https://www.redbubble.com/people/kidspictureshow/works/30061902-sharks-the-kids-picture-show-pixel-art?p=canvas-print */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Hammerhead */ -}}
+{{- /* # by KidsPictureShow - https://www.redbubble.com/people/kidspictureshow/works/30061902-sharks-the-kids-picture-show-pixel-art?p=canvas-print */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}} 
             {{.Tail}}                                                         [48;5;242m  [49m  

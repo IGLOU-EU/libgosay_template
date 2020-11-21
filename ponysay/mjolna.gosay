@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E01 Friendship is Magic [Part 1] */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Mjölna (unofficial), Sandy (unoffical) */}}
-{{/* SOURCE: (Anonymous) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E01 Friendship is Magic [Part 1] */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Mjölna (unofficial), Sandy (unoffical) */ -}}
+{{- /* SOURCE: (Anonymous) Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                          [00m

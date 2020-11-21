@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Another canonical koala? */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Another canonical koala? */ -}}
  {{.Said}}
    {{.Tail}}
     {{.Tail}}        .

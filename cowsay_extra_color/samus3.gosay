@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Samus (Metroid) */}}
-{{/* # sprite from Super Smash Flash */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Samus (Metroid) */ -}}
+{{- /* # sprite from Super Smash Flash */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}             [48;5;233m        [49m  
       [48;5;234m        [49m        [48;5;233m  [48;5;52m  [48;5;124m  [48;5;52m    [48;5;233m  [49m  [48;5;234m        [49m  

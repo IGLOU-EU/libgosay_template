@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* LICENSE: GNU General Public License 3 */}}
-{{/* NAME: (not named) */}}
-{{/* OTHER NAMES: GNU/Pony */}}
-{{/* SOURCE: https://github.com/GNU-Pony/mascot */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* LICENSE: GNU General Public License 3 */ -}}
+{{- /* NAME: (not named) */ -}}
+{{- /* OTHER NAMES: GNU/Pony */ -}}
+{{- /* SOURCE: https://github.com/GNU-Pony/mascot */ -}}
 
 Copyright © 2013  Tristan Trim, Mattias Andrée (maandree@member.fsf.org)
 it under the terms of the GNU General Public License as published by

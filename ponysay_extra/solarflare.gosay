@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* NAME: SolarFlare */}}
-{{/* OTHER NAMES: Day Breaker (Pony base) */}}
-{{/* SOURCE: [ariSunz] based on (JordiLa-Forge) Deviantart */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* NAME: SolarFlare */ -}}
+{{- /* OTHER NAMES: Day Breaker (Pony base) */ -}}
+{{- /* SOURCE: [ariSunz] based on (JordiLa-Forge) Deviantart */ -}}
 
 Image from 2013 predating Day Breaker.
 {{.Said}}[00m

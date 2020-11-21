@@ -1,5 +1,5 @@
-{{/* From https://github.com/schacon/cowsay */}}
-{{/* Evil-looking eyes */}}
+{{- /* From https://github.com/schacon/cowsay */ -}}
+{{- /* Evil-looking eyes */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

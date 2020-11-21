@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Wolverine (X-Men) */}}
-{{/* # sprite from Wolverine: Adamantium Rage (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/wolverineadamantiumrage/sheet/40795/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Wolverine (X-Men) */ -}}
+{{- /* # sprite from Wolverine: Adamantium Rage (SEGA Genesis) - https://www.spriters-resource.com/genesis_32x_scd/wolverineadamantiumrage/sheet/40795/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                         {{.Tail}} 
                           {{.Tail}} 

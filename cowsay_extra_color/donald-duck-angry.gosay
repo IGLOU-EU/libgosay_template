@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Donald Duck angry */}}
-{{/* # sprite from Magical Quest 3 Starring Mickey and Donald (GBA) - https://www.spriters-resource.com/game_boy_advance/magicalquest3starringmickeyanddonald/sheet/44195/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Donald Duck angry */ -}}
+{{- /* # sprite from Magical Quest 3 Starring Mickey and Donald (GBA) - https://www.spriters-resource.com/game_boy_advance/magicalquest3starringmickeyanddonald/sheet/44195/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                                   [48;5;26m          [49m  
                 {{.Tail}}                               [48;5;26m    [48;5;12m        [48;5;26m  [49m  

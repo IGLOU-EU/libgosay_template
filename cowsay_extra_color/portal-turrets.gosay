@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Sentry Turrets (Portal) */}}
-{{/* # by @balavicknesh - https://twitter.com/balavicknesh/status/991577120081002496 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Sentry Turrets (Portal) */ -}}
+{{- /* # by @balavicknesh - https://twitter.com/balavicknesh/status/991577120081002496 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                 {{.Tail}} 
                                   {{.Tail}} 

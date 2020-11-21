@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Cyclops (X-Men) */}}
-{{/* # sprite from X-Men: Mutant Apocalypse (SNES) - https://www.spriters-resource.com/snes/xmenapoc/sheet/6536/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Cyclops (X-Men) */ -}}
+{{- /* # sprite from X-Men: Mutant Apocalypse (SNES) - https://www.spriters-resource.com/snes/xmenapoc/sheet/6536/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                     {{.Tail}} 
                       {{.Tail}} 

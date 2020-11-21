@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Mark Corrigan & Jeremy Usborne (Peep Show) */}}
-{{/* # by Charc0al (original art) */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Mark Corrigan & Jeremy Usborne (Peep Show) */ -}}
+{{- /* # by Charc0al (original art) */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
           {{.Tail}}                                                                       [48;5;94m    [49m  
             {{.Tail}}                                                                 [48;5;94m            [49m  

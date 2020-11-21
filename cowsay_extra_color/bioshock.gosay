@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Big Daddy (Bioshock) */}}
-{{/* # by Siegfried Croes - https://siegfriedcroes.tumblr.com/post/177878329682/heres-the-result-of-a-pixel-art-giveaway-i-did-on */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Big Daddy (Bioshock) */ -}}
+{{- /* # by Siegfried Croes - https://siegfriedcroes.tumblr.com/post/177878329682/heres-the-result-of-a-pixel-art-giveaway-i-did-on */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}}                         [48;5;136m        [49m  
                 {{.Tail}}                   [48;5;136m    [48;5;234m        [48;5;136m  [48;5;95m    [49m  

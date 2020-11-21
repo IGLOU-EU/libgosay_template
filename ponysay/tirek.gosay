@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S04E25 Twilight's Kingdom [Part 1] */}}
-{{/* NAME: Tirek */}}
-{{/* OTHER NAMES: Lord Tirek (Official, full tittle), Prince Tirek (Official, former tittle) */}}
-{{/* SOURCE: (Bot-chan) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S04E25 Twilight's Kingdom [Part 1] */ -}}
+{{- /* NAME: Tirek */ -}}
+{{- /* OTHER NAMES: Lord Tirek (Official, full tittle), Prince Tirek (Official, former tittle) */ -}}
+{{- /* SOURCE: (Bot-chan) Desktop ponies */ -}}
 
 {{.Said}}[00m
                                      {{.Tail}}                          [00m

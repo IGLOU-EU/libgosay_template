@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Gene Belcher (Bob's Burgers) */}}
-{{/* # by Unknown - http://rebloggy.com/post/gif-pixel-art-bob-s-burgers-gene-belcher/128805484976 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Gene Belcher (Bob's Burgers) */ -}}
+{{- /* # by Unknown - http://rebloggy.com/post/gif-pixel-art-bob-s-burgers-gene-belcher/128805484976 */ -}}
  {{.Said}}
    {{.Tail}} 
     {{.Tail}}     [48;5;236m            [49m  

@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Kyle (South Park) */}}
-{{/* # by Unknown - http://pixelartmaker.com/art/b45b2b61f65cae0 */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Kyle (South Park) */ -}}
+{{- /* # by Unknown - http://pixelartmaker.com/art/b45b2b61f65cae0 */ -}}
  {{.Said}}
   {{.Tail}} 
     {{.Tail}} 

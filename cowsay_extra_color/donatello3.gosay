@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Donatello (Teenage Mutant Ninja Turtles) */}}
-{{/* # by RGZNSK - https://www.behance.net/gallery/44958281/TMNT-The-Arcade-Game */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Donatello (Teenage Mutant Ninja Turtles) */ -}}
+{{- /* # by RGZNSK - https://www.behance.net/gallery/44958281/TMNT-The-Arcade-Game */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
                                       {{.Tail}}                                                             [48;5;128m    [49m  
                                         {{.Tail}}                             [48;5;28m    [48;5;40m  [48;5;48m      [49m              [48;5;128m    [48;5;54m  [49m  [48;5;128m      [49m  

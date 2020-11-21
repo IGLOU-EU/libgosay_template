@@ -1,6 +1,6 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Companion Cube from Portal */}}
-{{/* # via http://pastebin.com/1AZwKrKp */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Companion Cube from Portal */ -}}
+{{- /* # via http://pastebin.com/1AZwKrKp */ -}}
  {{.Said}}
      {{.Tail}}
       {{.Tail}}

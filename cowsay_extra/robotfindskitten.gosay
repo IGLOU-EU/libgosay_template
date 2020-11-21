@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Robot finds kitten <3 */}}
-{{/* # based on rfksay by Andrew Northern */}}
-{{/* # http://robotfindskitten.org/aw.cgi?main=software.rfk#rfksay */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Robot finds kitten <3 */ -}}
+{{- /* # based on rfksay by Andrew Northern */ -}}
+{{- /* # http://robotfindskitten.org/aw.cgi?main=software.rfk#rfksay */ -}}
  {{.Said}}
   {{.Tail}}
    {{.Tail}}

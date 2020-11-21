@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Bob Ross */}}
-{{/* # by u/dangmattjoe - https://www.reddit.com/r/iWallpaper/comments/9yefyj/bob_ross_pixel_art/ */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Bob Ross */ -}}
+{{- /* # by u/dangmattjoe - https://www.reddit.com/r/iWallpaper/comments/9yefyj/bob_ross_pixel_art/ */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
       {{.Tail}} 
         {{.Tail}} 

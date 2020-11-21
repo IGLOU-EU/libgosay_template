@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Morpheus (The Matrix) */}}
-{{/* # by BKK Bros - http://gallery.wacom.com/gallery/61086663/Pixel-Face-2017 */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Morpheus (The Matrix) */ -}}
+{{- /* # by BKK Bros - http://gallery.wacom.com/gallery/61086663/Pixel-Face-2017 */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
         [48;5;23m    [49m              [48;5;23m  [49m           {{.Tail}}              [48;5;23m  [49m                [48;5;23m  [49m  
                         [48;5;23m  [49m               {{.Tail}}                            [48;5;23m  [49m                      [48;5;23m  [49m            [48;5;23m    [49m      [48;5;23m    [49m          [48;5;23m    [49m  

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # Pennywise (It) */}}
-{{/* # Unknown - https://www.teepublic.com/t-shirt/1910853-pennywise-it-pixel-art */}}
-{{/* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # Pennywise (It) */ -}}
+{{- /* # Unknown - https://www.teepublic.com/t-shirt/1910853-pennywise-it-pixel-art */ -}}
+{{- /* # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter */ -}}
  {{.Said}}
               {{.Tail}} 
                 {{.Tail}} 

@@ -1,7 +1,7 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* # maze-runner.cow */}}
-{{/* #   a guy running through an ASCII maze */}}
-{{/* #   found at http://pip.readthedocs.org/en/user_builds/pip/rtd-builds/latest/installing/ */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* # maze-runner.cow */ -}}
+{{- /* #   a guy running through an ASCII maze */ -}}
+{{- /* #   found at http://pip.readthedocs.org/en/user_builds/pip/rtd-builds/latest/installing/ */ -}}
  {{.Said}}
     {{.Tail}}
      {{.Tail}}

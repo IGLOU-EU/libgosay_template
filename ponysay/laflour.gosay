@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E25 Party of One */}}
-{{/* LICENSE: cc-by-nc-sa */}}
-{{/* NAME: Madam la Flour */}}
-{{/* SOURCE: Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E25 Party of One */ -}}
+{{- /* LICENSE: cc-by-nc-sa */ -}}
+{{- /* NAME: Madam la Flour */ -}}
+{{- /* SOURCE: Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                         [00m

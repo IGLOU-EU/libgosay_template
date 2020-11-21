@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S03E11 Games Pony Play */}}
-{{/* NAME: Ms Harshwhinny */}}
-{{/* OTHER NAMES: Harshwhinny (official, whitout tittle), Ms Peachbootom (wrong, Megan McCarthy mistake she in all they questions) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S03E11 Games Pony Play */ -}}
+{{- /* NAME: Ms Harshwhinny */ -}}
+{{- /* OTHER NAMES: Harshwhinny (official, whitout tittle), Ms Peachbootom (wrong, Megan McCarthy mistake she in all they questions) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
                         {{.Tail}}                 [00m

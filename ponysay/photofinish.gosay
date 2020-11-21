@@ -1,7 +1,7 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E20 Green isn't Your Color */}}
-{{/* NAME: Photo Finish */}}
-{{/* SOURCE: (Pony Noia) Dektop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E20 Green isn't Your Color */ -}}
+{{- /* NAME: Photo Finish */ -}}
+{{- /* SOURCE: (Pony Noia) Dektop ponies */ -}}
 
 {{.Said}}[00m
                      {{.Tail}}                   [00m

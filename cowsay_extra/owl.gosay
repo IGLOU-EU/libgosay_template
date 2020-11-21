@@ -1,5 +1,5 @@
-{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
-{{/* An owl */}}
+{{- /* From https://github.com/paulkaefer/cowsay-files.git */ -}}
+{{- /* An owl */ -}}
  {{.Said}}
          {{.Tail}}
           {{.Tail}}

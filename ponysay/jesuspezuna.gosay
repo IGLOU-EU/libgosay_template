@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S02E06 The Cutie Pox */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Jesús Pezuña (official, in Gameloft game) */}}
-{{/* SOURCE: [jristz] */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S02E06 The Cutie Pox */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Jesús Pezuña (official, in Gameloft game) */ -}}
+{{- /* SOURCE: [jristz] */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                      [00m

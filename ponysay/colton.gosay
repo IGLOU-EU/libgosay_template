@@ -1,8 +1,8 @@
-{{/* From https://github.com/erkin/ponysay.git */}}
-{{/* APPEARANCE: S01E07 Dragonshy */}}
-{{/* NAME: (not mentioned) */}}
-{{/* OTHER NAMES: Goldengrape (official, toy line), Colton Vines (unofficial), Sir Colton Vines III (unofficial) */}}
-{{/* SOURCE: (Anonycat) Desktop ponies */}}
+{{- /* From https://github.com/erkin/ponysay.git */ -}}
+{{- /* APPEARANCE: S01E07 Dragonshy */ -}}
+{{- /* NAME: (not mentioned) */ -}}
+{{- /* OTHER NAMES: Goldengrape (official, toy line), Colton Vines (unofficial), Sir Colton Vines III (unofficial) */ -}}
+{{- /* SOURCE: (Anonycat) Desktop ponies */ -}}
 
 {{.Said}}[00m
   {{.Tail}}                                      [00m
