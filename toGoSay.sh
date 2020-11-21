@@ -147,6 +147,7 @@ from_cowmore_color() {
         _buff="${_buff//\$$i/${_var[$i]}}"
     done
 
+    _buff="${_buff//\\e/}"
     _buff="${_buff//\$eyes/\{\{.EyeL\}\}\{\{.EyeR\}\}}"
     _buff="${_buff//\$tongue/\{\{.Tongue\}\}}"
     _buff="${_buff//\$thoughts/\{\{.Tail\}\}}"
@@ -200,13 +201,63 @@ from_cowsay() {
     echo "$_buff"
 }
 
+from_ponysay() {
+    local _buff _comm _page
+
+    _comm=""
+    _page="${1}"
+    _buff=""
+
+    while read -r line; do
+        if [[ $line == "" ]] || [[ $line == "\$\$\$" ]]; then
+            continue
+        fi
+
+        # Licence / Artiste
+        if 
+            [[ ${line} == "NAME:"* ]]        ||
+            [[ ${line} == "SOURCE:"* ]]      ||
+            [[ ${line} == "LICENSE:"* ]]     ||
+            [[ ${line} == "APPEARANCE:"* ]]  || 
+            [[ ${line} == "OTHER NAMES:"* ]]
+        then
+            if [[ $_comm == "" ]]; then
+                _comm="{{/* ${line#### } */}}"
+            else
+                _comm="${_comm}"$'\n'"{{/* ${line#### } */}}"
+            fi
+
+            continue
+        fi
+
+        if [[ ${line} =~ ^[a-zA-Z\ ]+:\  ]]; then
+            continue
+        fi
+
+        # Add to buff
+        _buff="${_buff}"$'\n'"${line}"
+    done < "${_page}"
+
+    # Replace
+    _buff="${_buff//\$\\\$/\{\{.Tail\}\}}"
+    _buff="$(echo "${_buff}" | sed -r -E 's/\$balloon[0-9]+\$/\{\{.Said\}\}/g')"
+
+    _buff="${_comm}"$'\n'"${_buff}"
+    echo "$_buff"
+}
+
 build_cowsay() {
     builder "from_cowsay" "cowsay" "https://github.com/schacon/cowsay" "cows" "cow"
 }
 
 build_cowmore() {
-    builder "from_cowsay" "cowmore" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
-    builder "from_cowmore_color" "cowmore_color" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+    builder "from_cowsay" "cowsay_extra" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+    builder "from_cowmore_color" "cowsay_extra_color" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+}
+
+build_ponysay() {
+    builder "from_ponysay" "ponysay" "https://github.com/erkin/ponysay.git" "ponies" "pony"
+    builder "from_ponysay" "ponysay_extra" "https://github.com/erkin/ponysay.git" "extraponies" "pony"
 }
 
 pwd="$(pwd)"
@@ -225,13 +276,10 @@ log 0 "Programme is runing at \`${pwd}\`"
             build_ponysay
             ;;
 
-        "ponymore")
-            build_ponymore
-            ;;
-
         *)
             build_cowsay
             build_cowmore
+            build_ponysay
             ;;
     esac
 
