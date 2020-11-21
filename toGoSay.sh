@@ -82,6 +82,10 @@ builder() {
         log 0 "Save result to ${_fName}"
         echo "{{/* From ${_git} */}}" > "${_tmp}${_tmpIO[1]}/${_fName}"
         ${_builder} "$file" >> "${_tmp}${_tmpIO[1]}/${_fName}"
+
+        if [[ $(wc -l < "${_tmp}${_tmpIO[1]}/${_fName}") -lt 3 ]]; then
+            rm "${_tmp}${_tmpIO[1]}/${_fName}"
+        fi
     done
     IFS="$_b"
 
@@ -91,13 +95,18 @@ builder() {
     clear "${_tmp}"
 }
 
-from_cowmore() {
+from_cowmore_color() {
     local -A _var
     local _buff _comm _page
 
     _comm=""
     _page="${1}"
     _buff=" {{.Said}}"
+
+    if ! grep -q -E '\\e\[[0-9]+m.*' "${_page}"; then
+        echo ""
+        return
+    fi
 
     while read -r line; do
         if [[ $line == "EOC"* ]] || [[ $line == "\$the_cow"* ]] || [[ $line == "" ]]; then
@@ -147,10 +156,16 @@ from_cowmore() {
 }
 
 from_cowsay() {
-    local _buff _comm
+    local _buff _comm _page
 
     _comm=""
+    _page="${1}"
     _buff=" {{.Said}}"
+
+    if grep -q -E '\\e\[[0-9]+m.*' "${_page}"; then
+        echo ""
+        return
+    fi
 
     while read -r line; do
         if [[ $line == "EOC"* ]] || [[ $line == "\$"*"= "* ]]; then
@@ -179,7 +194,7 @@ from_cowsay() {
 
         # Add to buff
         _buff="${_buff}"$'\n'"${line}"
-    done < "${1}"
+    done < "${_page}"
 
     _buff="${_comm}"$'\n'"${_buff}"
     echo "$_buff"
@@ -190,7 +205,8 @@ build_cowsay() {
 }
 
 build_cowmore() {
-    builder "from_cowmore" "cowmore" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+    builder "from_cowsay" "cowmore" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
+    builder "from_cowmore_color" "cowmore_color" "https://github.com/paulkaefer/cowsay-files.git" "cows" "cow"
 }
 
 pwd="$(pwd)"
@@ -203,6 +219,14 @@ log 0 "Programme is runing at \`${pwd}\`"
 
         "cowmore")
             build_cowmore
+            ;;
+        
+        "ponysay")
+            build_ponysay
+            ;;
+
+        "ponymore")
+            build_ponymore
             ;;
 
         *)
