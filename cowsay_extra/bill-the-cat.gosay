@@ -1,0 +1,11 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Bill the Cat */}}
+{{/* # Based on 'ack --th[pt]+t+' */}}
+{{/* #  from http://beyondgrep.com/ack-2.14-single-file */}}
+ {{.Said}}
+ {{.Tail}}
+  {{.Tail}}
+ _   /|
+ \\'o.O'
+ =(___)=
+    U

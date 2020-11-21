@@ -1,0 +1,10 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* Satanic cow, source unknown. */}}
+ {{.Said}}
+     {{.Tail}}
+      {{.Tail}}  (__)  
+         (\\/)  
+  /-------\\/    
+ / | 666 ||    
+*  ||----||      
+   ~~    ~~      

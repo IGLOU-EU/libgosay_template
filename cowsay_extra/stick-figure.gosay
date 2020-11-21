@@ -1,0 +1,10 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Stick figure */}}
+ {{.Said}}
+    {{.Tail}}
+     {{.Tail}}
+       O
+     -(Y)-
+       V
+     _/ \\_
+

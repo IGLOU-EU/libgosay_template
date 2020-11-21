@@ -1,0 +1,9 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* Hello Kitty */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}
+      /\\_)o<
+     |      \\
+     | O . O|
+      \\_____/

@@ -1,0 +1,12 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* MOOfasa. */}}
+ {{.Said}}
+       {{.Tail}}    ____
+        {{.Tail}}  /    \\
+          | ^__^ |
+          | ({{.EyeL}}{{.EyeR}}) |______
+          | (__) |      )\\/\\
+           \\____/|----w |
+                ||     ||
+
+	         Moofasa

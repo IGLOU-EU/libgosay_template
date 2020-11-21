@@ -1,0 +1,10 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cow performing an unnatural act, artist unknown. */}}
+ {{.Said}}
+      {{.Tail}}                _
+       {{.Tail}}              (_)
+        {{.Tail}}   ^__^       / \\
+         {{.Tail}}  ({{.EyeL}}{{.EyeR}})\\_____/_\\ \\
+            (__)\\       ) /
+             {{.Tongue}} ||----w ((
+                ||     ||>> 

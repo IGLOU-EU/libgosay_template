@@ -1,0 +1,21 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # USA flag */}}
+{{/* # from http://chris.com/ascii/index.php?art=objects/flags */}}
+ {{.Said}}
+   {{.Tail}}
+    {{.Tail}}
+
+  |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
+  | * * * * * * * * *  :::::::::::::::::::::::::|
+  |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
+  | * * * * * * * * *  :::::::::::::::::::::::::|
+  |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
+  | * * * * * * * * *  ::::::::::::::::::::;::::|
+  |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
+  |:::::::::::::::::::::::::::::::::::::::::::::|
+  |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+  |:::::::::::::::::::::::::::::::::::::::::::::|
+  |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+  |:::::::::::::::::::::::::::::::::::::::::::::|
+  |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+

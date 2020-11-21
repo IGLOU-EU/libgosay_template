@@ -1,0 +1,12 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # MailChimp */}}
+{{/* # view-source:http://mailchimp.com/ */}}
+ {{.Said}}
+{{.Tail}}
+ {{.Tail}}
+    ______
+   / ___M ]__
+C{ ( o o )}
+    {     ••
+      \\___
+      ----´

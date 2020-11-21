@@ -1,0 +1,14 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cow with a bong, from lars@csua.berkeley.edu */}}
+ {{.Said}}
+         {{.Tail}}
+          {{.Tail}}
+            ^__^ 
+    _______/({{.EyeL}}{{.EyeR}})
+/\\/(       /(__)
+   | W----|| |~|
+   ||     || |~|  ~~
+             |~|  ~
+             |_| o
+             |#|/
+            _+#+_

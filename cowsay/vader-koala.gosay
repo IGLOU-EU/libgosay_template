@@ -1,0 +1,14 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* Another canonical koala? */}}
+ {{.Said}}
+   {{.Tail}}
+    {{.Tail}}        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
+
+     Darth 
+     Vader    
+     koala        

@@ -1,0 +1,11 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Kilroy */}}
+{{/* # from http://www.ascii-art.de/ascii/jkl/kilroy.txt (accessed 8/14/2014) */}}
+ {{.Said}}
+     {{.Tail}} 
+      {{.Tail}}
+           ,,,
+          (0 0)
+   +---ooO-(_)-Ooo---+
+   |                 |
+

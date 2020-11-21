@@ -1,0 +1,12 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Robot */}}
+{{/* # based on rfksay by Andrew Northern */}}
+{{/* # http://robotfindskitten.org/aw.cgi?main=software.rfk#rfksay */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}
+
+     [-]
+     (+)=C
+     | |
+     OOO

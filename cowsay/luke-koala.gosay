@@ -1,0 +1,13 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* From the canonical koala collection */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}          .
+       ___   //
+     {~._.~}// 
+      ( Y )K/  
+     ()~*~()   
+     (_)-(_)   
+     Luke    
+     Sywalker
+     koala   

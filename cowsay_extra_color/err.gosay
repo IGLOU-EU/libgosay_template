@@ -1,0 +1,21 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Err, from the Mooninites */}}
+{{/* # by Charc0al (original art) */}}
+ {{.Said}}
+   {{.Tail}} 
+    {{.Tail}}                         [45m     [49m  
+     {{.Tail}}                        [45m     [49m  
+      {{.Tail}}      [45m                      [49m  
+             [45m  [44m  [45m              [44m  [45m  [49m  
+             [45m    [44m  [45m          [44m  [45m    [49m  
+             [45m      [44m  [45m      [44m  [45m          [49m  
+             [45m        [44m  [45m  [44m  [45m            [49m  
+           [44m  [45m    [44m   [45m        [44m   [45m        [44m  [49m  
+         [44m  [49m  [45m    [44m   [45m        [44m   [45m        [49m  [44m  [49m  
+       [44m  [49m    [45m                          [49m    [44m  [49m  
+       [44m  [49m    [45m                          [49m    [44m  [49m  
+             [45m    [44m              [45m        [49m  
+             [45m                          [49m  
+                    [44m  [49m       [44m  [49m  
+                    [44m  [49m       [44m  [49m  
+               [44m       [49m       [44m       [49m  

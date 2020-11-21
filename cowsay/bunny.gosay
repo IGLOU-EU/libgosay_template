@@ -1,0 +1,8 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cute little wabbit */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}   \\
+        \\ /\\
+        ( )
+      .( o ).

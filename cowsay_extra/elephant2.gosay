@@ -1,0 +1,11 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Elephant */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}                                 
+      /  \\~~~/  \\         
+     (    ..     )----,      
+      \\__     __/      \\     
+        )|  /)         |\\    
+         | /\\  /___\\   / ^   
+          "-|__|   |__|      

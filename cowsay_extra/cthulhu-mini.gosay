@@ -1,0 +1,9 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Cthulhu */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}
+
+      ^(;,;)^
+
+

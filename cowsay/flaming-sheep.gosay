@@ -1,0 +1,13 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* The flaming sheep, contributed by Geordan Rosario (geordan@csua.berkeley.edu) */}}
+ {{.Said}}
+  {{.Tail}}            .    .     .   
+   {{.Tail}}      .  . .     `  ,     
+    {{.Tail}}    .; .  : .' :  :  : . 
+     {{.Tail}}   i..`: i` i.i.,i  i . 
+      {{.Tail}}   `,--.|i |i|ii|ii|i: 
+           U${eyes}U\\.'\@\@\@\@\@\@`.||' 
+           \\__/(\@\@\@\@\@\@\@\@\@\@)'  
+                (\@\@\@\@\@\@\@\@)    
+                `YY~~~~YY'    
+                 ||    ||     

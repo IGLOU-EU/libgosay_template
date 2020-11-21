@@ -1,0 +1,17 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # seahorse */}}
+{{/* # adapted from http://www.chris.com/ascii/index.php?art=animals/other%20(water) */}}
+ {{.Said}}
+   {{.Tail}}
+    {{.Tail}}
+
+      (\\(\\/
+  .-._)oo  '_
+  \'---.     .\'\\
+       )    \\.-\'\\
+      /__ ;     (
+      |__ : /'._/
+       \\_  (
+       .,)  )
+       \'-.-\'
+

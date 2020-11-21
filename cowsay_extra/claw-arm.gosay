@@ -1,0 +1,26 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # claw arm */}}
+{{/* # via http://pastebin.com/1AZwKrKp */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}
+       X MM X
+       X MM X
+       X MM X
+       X MM X
+       + HX +
+     ,=\$\$XX%/-
+   =X#########\@%-
+  ;##############=
+ -###############M,
+ ;##\@\@\@######M\@###=
+ .+:;+:=H##\$=:/:;H.
+ - +###- \## :###,,;
+ +\@:/%;-H##H==/::H;
+  /#\@/-=+\$\$%::+H#\$
+  \$#%-,      ,.:##-
+ -\@/            =X%.
+ %H=             -\$;
+  =HH,         .%M;
+   /MM/       :\@M/.
+    .:XX,   -\$H:.

@@ -1,0 +1,21 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # jellyfish */}}
+{{/* # from http://ascii.co.uk/art/jellyfish */}}
+ {{.Said}}
+     {{.Tail}}
+      {{.Tail}}
+
+         .-;\':\':\'-.
+        {\'.\'.\'.\'.\'.}
+         )        \'`.
+        \'-. ._ ,_.-=\'
+          `). ( `);(
+          (\'. .)(,\'.)
+           ) ( ,\').(
+          ( .\').\'(\').
+          .) (\' ).(\'
+           '  ) (  ).
+            .\'( .)\'
+              .).\'
+jgs
+

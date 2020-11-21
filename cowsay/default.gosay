@@ -1,0 +1,8 @@
+{{/* From https://github.com/schacon/cowsay */}}
+
+ {{.Said}}
+        {{.Tail}}   ^__^
+         {{.Tail}}  ({{.EyeL}}{{.EyeR}})\\_______
+            (__)\\       )\\/\\
+             {{.Tongue}} ||----w |
+                ||     ||

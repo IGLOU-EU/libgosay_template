@@ -1,0 +1,12 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* The cow from a file called cow-n-horn, artist unknown. */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}    (__)               
+        {{.EyeL}}{{.EyeR}}\\               
+       ('') \\---------     
+        {{.Tongue}}\\           \\    
+           |          |\\   
+           ||---(  )_|| *  
+           ||    UU  ||    
+           ==        ==    

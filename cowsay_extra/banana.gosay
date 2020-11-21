@@ -1,0 +1,11 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Banana  */}}
+{{/* #  http://www.ascii-art.de/ascii/ab/banana.txt */}}
+ {{.Said}}
+       {{.Tail}}
+        {{.Tail}}
+
+     ".           ,#  
+     \\ `-._____,-'=/
+  ____`._ ----- _,'_____PhS
+         `-----'

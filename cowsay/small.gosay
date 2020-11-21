@@ -1,0 +1,7 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A small cow, artist unknown */}}
+ {{.Said}}
+       {{.Tail}}   ,__,
+        {{.Tail}}  ({{.EyeL}}{{.EyeR}})____
+           (__)    )\\
+            {{.Tongue}}||--|| *

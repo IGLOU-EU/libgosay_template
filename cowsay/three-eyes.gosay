@@ -1,0 +1,8 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cow with three eyes, brought to you by dpetrou@csua.berkeley.edu */}}
+ {{.Said}}
+        {{.Tail}}  ^___^
+         {{.Tail}} ({{.EyeL}}{{.EyeR}})\\_______
+           (___)\\       )\\/\\
+            {{.Tongue}}  ||----w |
+                ||     ||

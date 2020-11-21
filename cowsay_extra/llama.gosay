@@ -1,0 +1,12 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* Nodrama-Llama */}}
+ {{.Said}}
+  {{.Tail}}
+   {{.Tail}}
+       (\\/)
+      (_o |
+       /  |
+       \\  \\______
+        \\        )o
+         /|----- |
+         \\|     /|

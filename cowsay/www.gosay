@@ -1,0 +1,8 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cow wadvertising the World Wide Web, from lim@csua.berkeley.edu */}}
+ {{.Said}}
+        {{.Tail}}   ^__^
+         {{.Tail}}  ({{.EyeL}}{{.EyeR}})\\_______
+            (__)\\       )\\/\\
+             {{.Tongue}} ||--WWW |
+                ||     ||

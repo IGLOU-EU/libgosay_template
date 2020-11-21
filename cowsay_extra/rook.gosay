@@ -1,0 +1,14 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Rook (Chess piece) */}}
+{{/* # from http://www.chessvariants.org/d.pieces/ascii.html */}}
+{{/* #   by David Moeser */}}
+ {{.Said}}
+ {{.Tail}}
+  {{.Tail}}
+
+   WWWWWW
+    |  |
+    |  |
+    |__|
+   /____\\
+  (______)

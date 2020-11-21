@@ -1,0 +1,23 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # Ignignokt, from the Mooninites (ATHF) */}}
+{{/* # by Charc0al (original art) */}}
+ {{.Said}}
+   {{.Tail}} 
+    {{.Tail}} 
+     {{.Tail}}         [42m        [49m            [42m        [49m  
+      {{.Tail}}        [42m          [49m          [42m        [49m  
+       {{.Tail}}       [42m          [49m  [42m                [49m  
+            [42m                               [49m  
+            [42m                               [49m          [44m $x
+            [42m         [44m  [42m          [44m  [42m        [49m          [44m $x
+             [42m      [44m  [42m              [44m  [42m      [49m       [44m       [49m  
+             [42m    [44m  [42m  [44m    [42m      [44m    [42m  [44m  [42m    [49m         [44m   [49m  
+             [42m                              [49m         [44m   [49m  
+             [42m                                [44m          [49m  
+             [42m                                [49m  
+         [44m  [42m           [44m            [42m           [49m  
+       [44m  [49m  [42m                                  [49m  
+     [44m  [49m    [42m                                  [49m  
+     [44m  [49m    [42m                                  [49m  
+                      [44m  [49m        [44m  [49m  
+                [44m        [49m        [44m        [49m  

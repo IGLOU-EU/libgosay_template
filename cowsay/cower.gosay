@@ -1,0 +1,12 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* A cowering cow */}}
+ {{.Said}}
+     {{.Tail}}
+      {{.Tail}}
+        ,__, |    | 
+        (oo)\\|    |___
+        (__)\\|    |   )\\_
+             |    |_w |  \\
+             |    |  ||   *
+
+             Cower....

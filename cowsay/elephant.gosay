@@ -1,0 +1,13 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* An elephant out and about */}}
+ {{.Said}}
+ {{.Tail}}     /\\  ___  /\\
+  {{.Tail}}   // \\/   \\/ \\\\
+     ((    O O    ))
+      \\\\ /     \\ //
+       \\/  | |  \\/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  

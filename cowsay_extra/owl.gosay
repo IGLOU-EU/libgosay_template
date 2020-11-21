@@ -1,0 +1,9 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* An owl */}}
+ {{.Said}}
+         {{.Tail}}
+          {{.Tail}}
+           ___
+          (o o)
+         (  V  )
+        /--m-m-

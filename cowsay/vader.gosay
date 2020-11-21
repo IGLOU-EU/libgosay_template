@@ -1,0 +1,11 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* Cowth Vader, from geordan@csua.berkeley.edu */}}
+ {{.Said}}
+        {{.Tail}}    ,-^-.
+         {{.Tail}}   !oYo!
+          {{.Tail}} /./=\\.\\______
+               ##        )\\/\\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader

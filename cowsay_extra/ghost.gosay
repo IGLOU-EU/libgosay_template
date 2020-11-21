@@ -1,0 +1,17 @@
+{{/* From https://github.com/paulkaefer/cowsay-files.git */}}
+{{/* # art by Joan G. Stark, https://en.wikipedia.org/wiki/Joan_Stark */}}
+ {{.Said}}
+     {{.Tail}}     .-.
+      {{.Tail}}  .'   `.
+       {{.Tail}} :g g   :
+        {{.Tail}}: o    `.
+        :         ``.
+       :             `.
+      :  :         .   `.
+      :   :          ` . `.
+       `.. :            `. ``;
+          `:;             `:'
+             :              `.
+              `.              `.     .
+                `'`'`'`---..,___`;.-'
+

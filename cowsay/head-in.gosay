@@ -1,0 +1,10 @@
+{{/* From https://github.com/schacon/cowsay */}}
+{{/* Go stick yer head in a cow. */}}
+ {{.Said}}
+    {{.Tail}}
+     {{.Tail}}
+    ^__^         /
+    ({{.EyeL}}{{.EyeR}})\\_______/  _________
+    (__)\\       )=(  ____|_ \\_____
+   {{.Tongue}}   ||----w |  \\ \\     \\_____ |
+        ||     ||   ||           ||
